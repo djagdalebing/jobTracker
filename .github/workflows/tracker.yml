@@ -57,3 +57,15 @@ jobs:
           fi
           git pull --rebase origin main || true
           git push || echo "Push failed — data saved in next run."
+
+      - name: Re-trigger workflow
+        if: always()
+        run: |
+          echo "⏰ Triggering next workflow run..."
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GH_PAT }}" \
+            https://api.github.com/repos/${{ github.repository }}/actions/workflows/tracker.yml/dispatches \
+            -d '{"ref":"main"}' \
+          && echo "✅ Next run triggered." \
+          || echo "⚠️ Failed to trigger next run — cron will restart it."

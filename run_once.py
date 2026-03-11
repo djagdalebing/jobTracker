@@ -11,6 +11,7 @@ import os
 import sys
 import time
 import subprocess
+import threading
 from datetime import datetime, timedelta
 from tracker import CONFIG, check_website, send_telegram_alert
 
@@ -18,6 +19,8 @@ from tracker import CONFIG, check_website, send_telegram_alert
 MAX_RUNTIME_MINUTES = int(os.getenv("MAX_RUNTIME_MINUTES", "330"))
 # Pause between full sweeps (minutes). Default 10.
 CHECK_INTERVAL_MINUTES = int(os.getenv("CHECK_INTERVAL_MINUTES", "10"))
+# Max time (seconds) for a single website check before it's killed.
+PER_SITE_TIMEOUT = int(os.getenv("PER_SITE_TIMEOUT", "180"))  # 3 minutes
 
 
 def git_commit_and_push():
@@ -45,15 +48,37 @@ def git_commit_and_push():
         print(f"[git] ⚠️ Push failed (will retry next sweep): {e}")
 
 
+def check_website_with_timeout(website, timeout=PER_SITE_TIMEOUT):
+    """Run check_website in a thread with a timeout. Returns error string or None."""
+    result = [None]  # mutable container for thread result
+
+    def _target():
+        try:
+            check_website(website)
+        except Exception as e:
+            result[0] = str(e)
+
+    t = threading.Thread(target=_target, daemon=True)
+    t.start()
+    t.join(timeout=timeout)
+
+    if t.is_alive():
+        msg = f"{website['name']}: timed out after {timeout}s"
+        print(f"[⏰] {msg} — skipping.")
+        return msg
+    if result[0]:
+        return f"{website['name']}: {result[0]}"
+    return None
+
+
 def run_sweep(websites):
     """Check every website once. Returns list of error strings."""
     errors = []
     for website in websites:
-        try:
-            check_website(website)
-        except Exception as e:
-            errors.append(f"{website['name']}: {e}")
-            print(f"[-] Error checking {website['name']}: {e}")
+        err = check_website_with_timeout(website)
+        if err:
+            errors.append(err)
+            print(f"[-] {err}")
     return errors
 
 
