@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
+      "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
+    },
+    {
       "title": "Data Engineering Manager, Finance Data & AI Foundation",
       "url": "https://jobs.apple.com/en-us/details/200651090-3956/data-engineering-manager-finance-data-ai-foundation?team=SFTWR",
       "identifier": "Data Engineering Manager, Finance Data & AI Founda_-data-ai-foundation?team=SFTWR"
@@ -32,11 +37,6 @@
       "title": "Engineering Manager, UI Frameworks (AR/VR)",
       "url": "https://jobs.apple.com/en-us/details/200632881-0365/engineering-manager-ui-frameworks-ar-vr?team=SFTWR",
       "identifier": "Engineering Manager, UI Frameworks (AR/VR)_ui-frameworks-ar-vr?team=SFTWR"
-    },
-    {
-      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
-      "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
     },
     {
       "title": "Wi-Fi Software Engineer",
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T18:34:16.886262"
+  "timestamp": "2026-03-11T18:50:14.945661"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Sr. Architect - Gen AI/Agentic - Hybrid",
+      "url": "https://careers.cognizant.com/us-en/jobs/00066030251/sr-architect-gen-aiagentic-hybrid/",
+      "identifier": "Sr. Architect - Gen AI/Agentic - Hybrid_rchitect-gen-aiagentic-hybrid/"
+    },
+    {
+      "title": "Senior Facets Configuration Manager - Remote",
+      "url": "https://careers.cognizant.com/us-en/jobs/00067559981/senior-facets-configuration-manager-remote/",
+      "identifier": "Senior Facets Configuration Manager - Remote_-configuration-manager-remote/"
+    },
+    {
       "title": "Sr. Developer - Java Backend",
       "url": "https://careers.cognizant.com/us-en/jobs/00067274629/sr-developer-java-backend/",
       "identifier": "Sr. Developer - Java Backend_629/sr-developer-java-backend/"
@@ -42,18 +52,8 @@
       "title": "Sr. Java Developer",
       "url": "https://careers.cognizant.com/us-en/jobs/00067274627/sr-java-developer/",
       "identifier": "Sr. Java Developer_00067274627/sr-java-developer/"
-    },
-    {
-      "title": "Omni Product Expert - Remote",
-      "url": "https://careers.cognizant.com/us-en/jobs/00068031782/omni-product-expert-remote/",
-      "identifier": "Omni Product Expert - Remote_82/omni-product-expert-remote/"
-    },
-    {
-      "title": "Java Lead Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/00067274625/java-lead-developer/",
-      "identifier": "Java Lead Developer_067274625/java-lead-developer/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T18:37:33.748475"
+  "timestamp": "2026-03-11T18:53:32.054591"
 }
