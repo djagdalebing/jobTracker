@@ -4,6 +4,26 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Machine Learning Engineer - SIML, ISE",
+      "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-siml-ise?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - SIML, ISE_g-engineer-siml-ise?team=SFTWR"
+    },
+    {
+      "title": "Production Metal Frameworks Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651242-0836/production-metal-frameworks-engineer?team=SFTWR",
+      "identifier": "Production Metal Frameworks Engineer_frameworks-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - SWE Program Tools",
+      "url": "https://jobs.apple.com/en-us/details/200651141-3543/senior-software-engineer-swe-program-tools?team=SFTWR",
+      "identifier": "Senior Software Engineer - SWE Program Tools_r-swe-program-tools?team=SFTWR"
+    },
+    {
+      "title": "Engineering Manager, UI Frameworks (AR/VR)",
+      "url": "https://jobs.apple.com/en-us/details/200632881-0365/engineering-manager-ui-frameworks-ar-vr?team=SFTWR",
+      "identifier": "Engineering Manager, UI Frameworks (AR/VR)_ui-frameworks-ar-vr?team=SFTWR"
+    },
+    {
       "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
       "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
@@ -52,28 +72,8 @@
       "title": "Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200646076-2926/software-engineer?team=SFTWR",
       "identifier": "Software Engineer_6/software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200646076-3673/software-engineer?team=SFTWR",
-      "identifier": "Software Engineer_3/software-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - SIML, ISE",
-      "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-siml-ise?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer - SIML, ISE_g-engineer-siml-ise?team=SFTWR"
-    },
-    {
-      "title": "AR/VR UI Frameworks Engineering Manager - Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200632881-0365/ar-vr-ui-frameworks-engineering-manager-vision-products-group?team=SFTWR",
-      "identifier": "AR/VR UI Frameworks Engineering Manager - Vision P_sion-products-group?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineer, Access/Car Keys Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200634933-0157/sr-software-engineer-access-car-keys-engineering?team=SFTWR",
-      "identifier": "Sr Software Engineer, Access/Car Keys Engineering_ar-keys-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T18:02:19.660255"
+  "timestamp": "2026-03-11T18:18:16.868662"
 }

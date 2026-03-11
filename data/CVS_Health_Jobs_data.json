@@ -9,16 +9,6 @@
       "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
     },
     {
-      "title": "Senior Data Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0731860/Senior-Data-Engineering-Manager",
-      "identifier": "Senior Data Engineering Manager_enior-Data-Engineering-Manager"
-    },
-    {
-      "title": "Data Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841914/Data-Engineer",
-      "identifier": "Data Engineer_/en/job/R0841914/Data-Engineer"
-    },
-    {
       "title": "Sr. Data Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0841216/Sr-Data-Engineer",
       "identifier": "Sr. Data Engineer_/job/R0841216/Sr-Data-Engineer"
@@ -29,21 +19,31 @@
       "identifier": "Network Analyst_n/job/R0840442/Network-Analyst"
     },
     {
-      "title": "Executive Director, Aetna Operations Enablement Insights & Reporting",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845107/Executive-Director-Aetna-Operations-Enablement-Insights-Reporting",
-      "identifier": "Executive Director, Aetna Operations Enablement In_-Enablement-Insights-Reporting"
+      "title": "Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0841914/Data-Engineer",
+      "identifier": "Data Engineer_/en/job/R0841914/Data-Engineer"
     },
     {
-      "title": "Lead Decision Scientist \u2013 Specialty Provider Analytics",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0798922/Lead-Decision-Scientist-Specialty-Provider-Analytics",
-      "identifier": "Lead Decision Scientist \u2013 Specialty Provider Analy_t-Specialty-Provider-Analytics"
+      "title": "Senior Data Engineering Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0731860/Senior-Data-Engineering-Manager",
+      "identifier": "Senior Data Engineering Manager_enior-Data-Engineering-Manager"
     },
     {
       "title": "Senior Data Scientist - AI",
       "url": "https://jobs.cvshealth.com/us/en/job/R0835225/Senior-Data-Scientist-AI",
       "identifier": "Senior Data Scientist - AI_35225/Senior-Data-Scientist-AI"
+    },
+    {
+      "title": "Data Scientist - Pricing and Promotions Optimization",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0840180/Data-Scientist-Pricing-and-Promotions-Optimization",
+      "identifier": "Data Scientist - Pricing and Promotions Optimizati_ng-and-Promotions-Optimization"
+    },
+    {
+      "title": "Lead Decision Scientist \u2013 Specialty Provider Analytics",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0798922/Lead-Decision-Scientist-Specialty-Provider-Analytics",
+      "identifier": "Lead Decision Scientist \u2013 Specialty Provider Analy_t-Specialty-Provider-Analytics"
     }
   ],
   "job_count_text": "35",
-  "timestamp": "2026-03-11T18:03:37.514935"
+  "timestamp": "2026-03-11T18:19:35.754248"
 }
