@@ -4,11 +4,13 @@ Looping website checker for GitHub Actions.
 Checks all enabled websites every CHECK_INTERVAL minutes,
 running for up to MAX_RUNTIME_MINUTES (default 330 = 5.5 hours)
 to stay under GitHub Actions' 6-hour job limit.
+Commits data/ to git after every sweep so progress is never lost.
 """
 
 import os
 import sys
 import time
+import subprocess
 from datetime import datetime, timedelta
 from tracker import CONFIG, check_website, send_telegram_alert
 
@@ -16,6 +18,31 @@ from tracker import CONFIG, check_website, send_telegram_alert
 MAX_RUNTIME_MINUTES = int(os.getenv("MAX_RUNTIME_MINUTES", "330"))
 # Pause between full sweeps (minutes). Default 10.
 CHECK_INTERVAL_MINUTES = int(os.getenv("CHECK_INTERVAL_MINUTES", "10"))
+
+
+def git_commit_and_push():
+    """Commit data/ changes and push, handling conflicts gracefully."""
+    try:
+        subprocess.run(["git", "add", "data/"], check=False)
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"], capture_output=True
+        )
+        if result.returncode == 0:
+            print("[git] No data changes to commit.")
+            return
+        subprocess.run(
+            ["git", "commit", "-m", "chore: update tracker data [skip ci]"],
+            check=True,
+        )
+        # Pull with rebase to avoid conflicts from other runs
+        subprocess.run(
+            ["git", "pull", "--rebase", "origin", "main"],
+            check=True,
+        )
+        subprocess.run(["git", "push"], check=True)
+        print("[git] ✅ Data committed and pushed.")
+    except subprocess.CalledProcessError as e:
+        print(f"[git] ⚠️ Push failed (will retry next sweep): {e}")
 
 
 def run_sweep(websites):
@@ -62,6 +89,9 @@ def main():
 
         if errors:
             print(f"⚠️  {len(errors)} error(s) in sweep #{sweep_count}")
+
+        # Commit & push data after every sweep
+        git_commit_and_push()
 
         remaining = (deadline - datetime.now()).total_seconds()
         sleep_seconds = CHECK_INTERVAL_MINUTES * 60
