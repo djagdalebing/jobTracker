@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
     },
     {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "title": "Workforce Development Specialist, TPG\nLongmont, Colorado, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/40777706",
+      "identifier": "Workforce Development Specialist, TPG\nLongmont, Co_icron.com/careers/job/40777706"
+    },
+    {
+      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
     },
@@ -47,13 +52,8 @@
       "title": "Engineer, Facilities Capacity Planning\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40776650",
       "identifier": "Engineer, Facilities Capacity Planning\nBoise, Idah_icron.com/careers/job/40776650"
-    },
-    {
-      "title": "CAD Design Automation Engineer, CE\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/38954244",
-      "identifier": "CAD Design Automation Engineer, CE\nBoise, Idaho, U_icron.com/careers/job/38954244"
     }
   ],
-  "job_count_text": "61",
-  "timestamp": "2026-03-11T19:25:59.975290"
+  "job_count_text": "62",
+  "timestamp": "2026-03-11T19:44:21.873496"
 }

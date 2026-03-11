@@ -4,14 +4,29 @@
   "total_jobs": 14,
   "jobs": [
     {
-      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
-      "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
+      "title": "Senior Engineering Manager, Finance Data & SOX Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200651087-3956/senior-engineering-manager-finance-data-sox-platforms?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Finance Data & SOX Pla_-data-sox-platforms?team=SFTWR"
+    },
+    {
+      "title": "Sr Engineering Manager, Finance Data Engineering & AI Enablement",
+      "url": "https://jobs.apple.com/en-us/details/200651089-3956/sr-engineering-manager-finance-data-engineering-ai-enablement?team=SFTWR",
+      "identifier": "Sr Engineering Manager, Finance Data Engineering &_ering-ai-enablement?team=SFTWR"
     },
     {
       "title": "Data Engineering Manager, Finance Data & AI Foundation",
       "url": "https://jobs.apple.com/en-us/details/200651090-3956/data-engineering-manager-finance-data-ai-foundation?team=SFTWR",
       "identifier": "Data Engineering Manager, Finance Data & AI Founda_-data-ai-foundation?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer - Early Career (Backend/Data)",
+      "url": "https://jobs.apple.com/en-us/details/200651247-2459/software-engineer-early-career-backend-data?team=SFTWR",
+      "identifier": "Software Engineer - Early Career (Backend/Data)_career-backend-data?team=SFTWR"
+    },
+    {
+      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
+      "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
     },
     {
       "title": "iOS Software Engineer, Customer Systems",
@@ -57,23 +72,8 @@
       "title": "Manager - Software Engineer, Mail Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200651143-3401/manager-software-engineer-mail-intelligence?team=MLAI",
       "identifier": "Manager - Software Engineer, Mail Intelligence_er-mail-intelligence?team=MLAI"
-    },
-    {
-      "title": "Sr Engineering Manager, Finance Data Engineering & AI Enablement",
-      "url": "https://jobs.apple.com/en-us/details/200651089-3956/sr-engineering-manager-finance-data-engineering-ai-enablement?team=SFTWR",
-      "identifier": "Sr Engineering Manager, Finance Data Engineering &_ering-ai-enablement?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Finance Data & SOX Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200651087-3956/senior-engineering-manager-finance-data-sox-platforms?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Finance Data & SOX Pla_-data-sox-platforms?team=SFTWR"
-    },
-    {
-      "title": "Senior Tools & Automation Engineer iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651208-0836/senior-tools-automation-engineer-icloud?team=SFTWR",
-      "identifier": "Senior Tools & Automation Engineer iCloud_ion-engineer-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T19:22:08.019254"
+  "timestamp": "2026-03-11T19:40:33.735247"
 }
