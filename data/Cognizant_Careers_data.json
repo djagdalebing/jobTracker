@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Sr. Developer - Java Backend",
+      "url": "https://careers.cognizant.com/us-en/jobs/00067274629/sr-developer-java-backend/",
+      "identifier": "Sr. Developer - Java Backend_629/sr-developer-java-backend/"
+    },
+    {
+      "title": "NetworX Product Consultant",
+      "url": "https://careers.cognizant.com/us-en/jobs/00068081091/networx-product-consultant/",
+      "identifier": "NetworX Product Consultant_91/networx-product-consultant/"
+    },
+    {
       "title": "Senior Salesforce Administrator",
       "url": "https://careers.cognizant.com/us-en/jobs/00067917771/senior-salesforce-administrator/",
       "identifier": "Senior Salesforce Administrator_nior-salesforce-administrator/"
@@ -42,18 +52,8 @@
       "title": "Java Lead Developer",
       "url": "https://careers.cognizant.com/us-en/jobs/00067274625/java-lead-developer/",
       "identifier": "Java Lead Developer_067274625/java-lead-developer/"
-    },
-    {
-      "title": "Sr. Java Microservices Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/000672746210/sr-java-microservices-developer/",
-      "identifier": "Sr. Java Microservices Developer_-java-microservices-developer/"
-    },
-    {
-      "title": "OMNIPlus Product Consultant",
-      "url": "https://careers.cognizant.com/us-en/jobs/00068031786/omniplus-product-consultant/",
-      "identifier": "OMNIPlus Product Consultant_6/omniplus-product-consultant/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T17:30:38.898839"
+  "timestamp": "2026-03-11T18:05:36.019149"
 }

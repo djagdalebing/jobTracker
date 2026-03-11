@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 13,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651047-3543/location-motion-and-connected-experiences-software-integrity-engineer?team=SFTWR",
+      "identifier": "Location, Motion, and Connected Experiences Softwa_-integrity-engineer?team=SFTWR"
+    },
+    {
+      "title": "Wi-Fi Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200649764-0836/wi-fi-software-engineer?team=SFTWR",
+      "identifier": "Wi-Fi Software Engineer_i-software-engineer?team=SFTWR"
+    },
+    {
+      "title": "Sr Software Engineer, AI & Data Platforms (AiDP)",
+      "url": "https://jobs.apple.com/en-us/details/200649800-3401/sr-software-engineer-ai-data-platforms-aidp?team=SFTWR",
+      "identifier": "Sr Software Engineer, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
+    },
     {
       "title": "WebKit Privacy & Adtech Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651137-3401/webkit-privacy-adtech-engineer?team=SFTWR",
@@ -27,11 +42,6 @@
       "title": "Senior Software Engineer - Transparency - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200651210-3543/senior-software-engineer-transparency-icloud?team=SFTWR",
       "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineer, AI & Data Platforms (AiDP)",
-      "url": "https://jobs.apple.com/en-us/details/200649800-3401/sr-software-engineer-ai-data-platforms-aidp?team=SFTWR",
-      "identifier": "Sr Software Engineer, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
     },
     {
       "title": "Senior Tools & Automation Engineer iCloud",
@@ -62,13 +72,8 @@
       "title": "Sr Software Engineer, Access/Car Keys Engineering",
       "url": "https://jobs.apple.com/en-us/details/200634933-0157/sr-software-engineer-access-car-keys-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer, Access/Car Keys Engineering_ar-keys-engineering?team=SFTWR"
-    },
-    {
-      "title": "Sr. AR Applications Engineer- Vision Products Software",
-      "url": "https://jobs.apple.com/en-us/details/200651123-3337/sr-ar-applications-engineer-vision-products-software?team=SFTWR",
-      "identifier": "Sr. AR Applications Engineer- Vision Products Soft_n-products-software?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T17:27:23.861826"
+  "timestamp": "2026-03-11T18:02:19.660255"
 }

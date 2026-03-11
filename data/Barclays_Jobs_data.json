@@ -1,8 +1,23 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Prime RAD Developer",
+      "url": "https://search.jobs.barclays/job/new-york/prime-rad-developer/13015/92651848368",
+      "identifier": "Prime RAD Developer_ad-developer/13015/92651848368"
+    },
+    {
+      "title": "Senior Solutions Architect - VP",
+      "url": "https://search.jobs.barclays/job/whippany/senior-solutions-architect-vp/13015/92651843552",
+      "identifier": "Senior Solutions Architect - VP_architect-vp/13015/92651843552"
+    },
+    {
+      "title": "Liquid Financing Inventory Management Senior Engineer",
+      "url": "https://search.jobs.barclays/job/new-york/liquid-financing-inventory-management-senior-engineer/13015/92640163808",
+      "identifier": "Liquid Financing Inventory Management Senior Engin_ior-engineer/13015/92640163808"
+    },
     {
       "title": "Site Reliability Engineer (SRE), AVP",
       "url": "https://search.jobs.barclays/job/whippany/site-reliability-engineer-sre-avp/13015/92625835696",
@@ -67,18 +82,8 @@
       "title": "Control Mapping Operations (CMO) Program Support - AVP",
       "url": "https://search.jobs.barclays/job/whippany/control-mapping-operations-cmo-program-support-avp/13015/92460280400",
       "identifier": "Control Mapping Operations (CMO) Program Support -_-support-avp/13015/92460280400"
-    },
-    {
-      "title": "Director - Equity Flow Vol Strat",
-      "url": "https://search.jobs.barclays/job/new-york/director-equity-flow-vol-strat/13015/92460215136",
-      "identifier": "Director - Equity Flow Vol Strat_ow-vol-strat/13015/92460215136"
-    },
-    {
-      "title": "Connectivity Software Engineer \u2013 VP",
-      "url": "https://search.jobs.barclays/job/new-york/connectivity-software-engineer-vp/13015/92395713488",
-      "identifier": "Connectivity Software Engineer \u2013 VP_-engineer-vp/13015/92395713488"
     }
   ],
   "job_count_text": "85",
-  "timestamp": "2026-03-11T17:26:50.438807"
+  "timestamp": "2026-03-11T18:01:46.033421"
 }
