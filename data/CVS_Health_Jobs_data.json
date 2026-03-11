@@ -4,6 +4,11 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Product Optimization and Insights Manager",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0837503/Product-Optimization-and-Insights-Manager",
+      "identifier": "Product Optimization and Insights Manager_imization-and-Insights-Manager"
+    },
+    {
       "title": "Sr Strategic Advisor - Workforce Planning",
       "url": "https://jobs.cvshealth.com/us/en/job/R0810161/Sr-Strategic-Advisor-Workforce-Planning",
       "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
@@ -17,11 +22,6 @@
       "title": "Sr Analyst, Stars Analytics",
       "url": "https://jobs.cvshealth.com/us/en/job/R0816694/Sr-Analyst-Stars-Analytics",
       "identifier": "Sr Analyst, Stars Analytics_694/Sr-Analyst-Stars-Analytics"
-    },
-    {
-      "title": "Product Optimization and Insights Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0837503/Product-Optimization-and-Insights-Manager",
-      "identifier": "Product Optimization and Insights Manager_imization-and-Insights-Manager"
     },
     {
       "title": "Senior Data Engineering Manager",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-03-11T23:08:19.319188"
+  "timestamp": "2026-03-11T23:24:11.560937"
 }
