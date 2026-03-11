@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
+      "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
       "title": "Business Analyst I (Full Time) United States",
       "url": "https://careers.cisco.com/global/en/job/2000125/Business-Analyst-I-Full-Time-United-States",
       "identifier": "Business Analyst I (Full Time) United States_lyst-I-Full-Time-United-States"
@@ -47,13 +52,8 @@
       "title": "Software Engineer I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2007003/Software-Engineer-I-Full-Time-United-States",
       "identifier": "Software Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer Data/AI/Intelligent Systems II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000137/Software-Engineer-Data-AI-Intelligent-Systems-II-Full-Time-United-States",
-      "identifier": "Software Engineer Data/AI/Intelligent Systems II (_ems-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "27",
-  "timestamp": "2026-03-11T21:17:59.093318"
+  "job_count_text": "28",
+  "timestamp": "2026-03-11T21:33:50.266217"
 }
