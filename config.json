@@ -1,0 +1,129 @@
+{
+  "websites": [
+    {
+      "name": "Goldman Sachs Jobs",
+      "url": "https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Data%20Analytics|Data%20Analytics%20%26%20Reporting|Software%20Engineering&LOCATION=Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Chicago|Boston|Detroit|Jersey%20City|Albany|New%20York|Dallas|Houston|Richardson|Salt%20Lake%20City&page=1&sort=POSTED_DATE",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Goldman Sachs - Data Analytics, Reporting & Software Engineering Jobs (Analyst/Associate)"
+    },
+    {
+      "name": "Barclays Jobs",
+      "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Barclays - United States Job Listings"
+    },
+    {
+      "name": "Microsoft Careers",
+      "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&pid=1970393556639438&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
+      "enabled": true,
+      "check_interval": 300,
+      "description": "Microsoft - Software Engineering, Research, Applied & Data Sciences (US, Remote)"
+    },
+    {
+      "name": "Apple Jobs",
+      "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Apple - ML/AI, Software Engineering, DevOps, Security & Analytics (US)"
+    },
+    {
+      "name": "PayPal Careers",
+      "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_job_category=Software+Engineering%2CData+Science%2CMachine+Learning+Engineering",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "PayPal - Software Engineering, Data Science & ML Engineering (US, Remote)"
+    },
+    {
+      "name": "Meta Careers",
+      "url": "https://www.metacareers.com/jobsearch?sort_by_new=true&teams[0]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&roles[0]=Full%20time%20employment",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Meta - University Grad Engineering, Tech & Design (Full-time)"
+    },
+    {
+      "name": "CVS Health Jobs",
+      "url": "https://jobs.cvshealth.com/us/en/search-results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "CVS Health - Innovation and Technology, Data and Analytics",
+      "interactive": true,
+      "filters": {
+        "category": "Innovation and Technology",
+        "sub_category": "Data and Analytics",
+        "sort_by": "Recent"
+      }
+    },
+    {
+      "name": "Cisco Careers",
+      "url": "https://careers.cisco.com/global/en/search-results?s=1",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Cisco - Professional & Entry Level Talent (US)",
+      "interactive": true,
+      "filters": {
+        "experience_levels": ["Entry Level Talent"],
+        "country": "United States of America",
+        "sort_by": "Most Recent"
+      }
+    },
+    {
+      "name": "JPMorgan Chase Careers",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "JPMorgan Chase - Technology, Data & Analytics Jobs"
+    },
+    {
+      "name": "Cognizant Careers",
+      "url": "https://careers.cognizant.com/us-en/jobs/?keyword=&location=United+States&radius=100&lat=&lng=&cname=United+States&ccode=US&team=Technology+%26+Engineering&pagesize=10#results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Cognizant - Technology & Engineering Jobs (US)"
+    },
+    {
+      "name": "ServiceNow Careers",
+      "url": "https://careers.servicenow.com/jobs/?search=&team=Engineering%2C+Infrastructure+and+Operations&team=IT&team=Digital+Technology&jobPostingType=Early+Career&country=United+States&pagesize=20#results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "ServiceNow - Engineering, IT & Digital Technology Early Career Jobs (US)"
+    },
+    {
+      "name": "Micron Technology Careers",
+      "url": "https://careers.micron.com/careers?start=0&location=United+States&pid=30425005&sort_by=timestamp&filter_include_remote=1&filter_skills=Python%2CData+Analysis&filter_seniority=1",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Micron Technology - Python, Data Analysis Jobs (US, Remote, Entry Level)"
+    },
+    {
+      "name": "Salesforce Careers",
+      "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Salesforce - Data, Enterprise Technology & Infrastructure, Software Engineering (New Grads, US)"
+    },
+    {
+      "name": "Adobe Careers",
+      "url": "https://careers.adobe.com/us/en/search-results?qcountry=United%20States%20of%20America",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Adobe - University Graduate, Engineering and Product (US, Most Recent)",
+      "interactive": true,
+      "filters": {
+        "experience_level": "University Graduate",
+        "teams": ["Engineering and Product"],
+        "sort_by": "Most recent"
+      }
+    }
+  ],
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  },
+  "global_settings": {
+    "default_check_interval": 600,
+    "page_load_wait": 8,
+    "extract_content": true
+  }
+}
