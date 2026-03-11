@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Metal API & Shader Instrumentation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651271-0836/metal-api-shader-instrumentation-engineer?team=SFTWR",
+      "identifier": "Metal API & Shader Instrumentation Engineer_umentation-engineer?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager - Software Developer Productivity - CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200615768-3401/engineering-program-manager-software-developer-productivity-coreos?team=SFTWR",
+      "identifier": "Engineering Program Manager - Software Developer P_productivity-coreos?team=SFTWR"
+    },
     {
       "title": "Computational Linguist",
       "url": "https://jobs.apple.com/en-us/details/200650142-0836/computational-linguist?team=SFTWR",
@@ -80,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T20:28:17.644991"
+  "timestamp": "2026-03-11T20:44:11.824243"
 }

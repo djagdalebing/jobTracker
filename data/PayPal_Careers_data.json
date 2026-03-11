@@ -1,33 +1,8 @@
 {
   "page_title": "Careers at PayPal | Eightfold",
-  "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&location=United+States&pid=274917692032&sort_by=timestamp&filter_include_remote=1&filter_job_category=Software+Engineering%2CData+Science%2CMachine+Learning+Engineering",
+  "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&location=United+States&pid=274903869037&sort_by=timestamp&filter_include_remote=1&filter_job_category=Software+Engineering%2CData+Science%2CMachine+Learning+Engineering",
   "total_jobs": 10,
   "jobs": [
-    {
-      "title": "Director, Machine Learning Engineering\nNew York City, New York, United States of America + 3 more\nMachine Learning Engineering\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274917692032?domain=paypal.com",
-      "identifier": "Director, Machine Learning Engineering\nNew York Ci_274917692032?domain=paypal.com"
-    },
-    {
-      "title": "Software Engineer\nSan Jose, California, United States of America\nSoftware Engineering\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274917695492?domain=paypal.com",
-      "identifier": "Software Engineer\nSan Jose, California, United Sta_274917695492?domain=paypal.com"
-    },
-    {
-      "title": "Machine Learning Engineer\nChicago, Illinois, United States of America + 1 more\nMachine Learning Engineering\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274917973369?domain=paypal.com",
-      "identifier": "Machine Learning Engineer\nChicago, Illinois, Unite_274917973369?domain=paypal.com"
-    },
-    {
-      "title": "Sr Data Scientist\nSan Jose, California, United States of America\nData Science\nHybrid\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274916456734?domain=paypal.com",
-      "identifier": "Sr Data Scientist\nSan Jose, California, United Sta_274916456734?domain=paypal.com"
-    },
-    {
-      "title": "Sr Manager, Data Science\nScottsdale, Arizona, United States of America + 1 more\nData Science\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274917526758?domain=paypal.com",
-      "identifier": "Sr Manager, Data Science\nScottsdale, Arizona, Unit_274917526758?domain=paypal.com"
-    },
     {
       "title": "Sr Staff Machine Learning Scientist, Agentic AI\nSan Jose, California, United States of America\nMachine Learning Engineering\nPosted 2 days ago",
       "url": "https://paypal.eightfold.ai/careers/job/274903869037?domain=paypal.com",
@@ -52,8 +27,33 @@
       "title": "Sr Staff Software Engineer\nSan Jose, California, United States of America + 1 more\nSoftware Engineering\nHybrid\nPosted 2 days ago",
       "url": "https://paypal.eightfold.ai/careers/job/274905681873?domain=paypal.com",
       "identifier": "Sr Staff Software Engineer\nSan Jose, California, U_274905681873?domain=paypal.com"
+    },
+    {
+      "title": "Staff Software Engineer - iOS\nSan Jose, California, United States of America\nSoftware Engineering\nPosted 2 days ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274905972163?domain=paypal.com",
+      "identifier": "Staff Software Engineer - iOS\nSan Jose, California_274905972163?domain=paypal.com"
+    },
+    {
+      "title": "Sr Director, Identity, Authentication & Bot Prevention\nNew York City, New York, United States of America + 3 more\nData Science\nPosted 2 days ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274906077209?domain=paypal.com",
+      "identifier": "Sr Director, Identity, Authentication & Bot Preven_274906077209?domain=paypal.com"
+    },
+    {
+      "title": "Sr. Data Scientist\nScottsdale, Arizona, United States of America + 1 more\nData Science\nHybrid\nPosted 2 days ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274906205604?domain=paypal.com",
+      "identifier": "Sr. Data Scientist\nScottsdale, Arizona, United Sta_274906205604?domain=paypal.com"
+    },
+    {
+      "title": "Staff Machine Learning Engineer\nSan Jose, California, United States of America\nMachine Learning Engineering\nPosted 2 days ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274906756512?domain=paypal.com",
+      "identifier": "Staff Machine Learning Engineer\nSan Jose, Californ_274906756512?domain=paypal.com"
+    },
+    {
+      "title": "Staff Engineer - iOS\nSan Jose, California, United States of America\nSoftware Engineering\nPosted 2 days ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274906901913?domain=paypal.com",
+      "identifier": "Staff Engineer - iOS\nSan Jose, California, United _274906901913?domain=paypal.com"
     }
   ],
-  "job_count_text": "211",
-  "timestamp": "2026-03-11T20:28:34.281466"
+  "job_count_text": "208",
+  "timestamp": "2026-03-11T20:44:28.731518"
 }
