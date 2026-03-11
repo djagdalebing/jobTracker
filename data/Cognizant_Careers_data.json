@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Senior Salesforce Administrator - Sr. Associate - 00067227211",
+      "url": "https://careers.cognizant.com/us-en/jobs/00067227211/senior-salesforce-administrator-sr-associate-00067227211/",
+      "identifier": "Senior Salesforce Administrator - Sr. Associate - _ator-sr-associate-00067227211/"
+    },
+    {
+      "title": "SAP EWM Functional Architect - 00068063541",
+      "url": "https://careers.cognizant.com/us-en/jobs/00068063541/sap-ewm-functional-architect-00068063541/",
+      "identifier": "SAP EWM Functional Architect - 00068063541_ctional-architect-00068063541/"
+    },
+    {
       "title": "Sr. Architect - Gen AI/Agentic - Hybrid",
       "url": "https://careers.cognizant.com/us-en/jobs/00066030251/sr-architect-gen-aiagentic-hybrid/",
       "identifier": "Sr. Architect - Gen AI/Agentic - Hybrid_rchitect-gen-aiagentic-hybrid/"
@@ -42,18 +52,8 @@
       "title": "Omni Plus Engineer -OmniPlus Engineer",
       "url": "https://careers.cognizant.com/us-en/jobs/00068031468/omni-plus-engineer-omniplus-engineer/",
       "identifier": "Omni Plus Engineer -OmniPlus Engineer_us-engineer-omniplus-engineer/"
-    },
-    {
-      "title": "Omni Product Engineer with Cobol",
-      "url": "https://careers.cognizant.com/us-en/jobs/000680314612/omni-product-engineer-with-cobol/",
-      "identifier": "Omni Product Engineer with Cobol_i-product-engineer-with-cobol/"
-    },
-    {
-      "title": "Sr. Java Developer",
-      "url": "https://careers.cognizant.com/us-en/jobs/00067274627/sr-java-developer/",
-      "identifier": "Sr. Java Developer_00067274627/sr-java-developer/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T19:43:46.339009"
+  "timestamp": "2026-03-11T19:59:39.720275"
 }
