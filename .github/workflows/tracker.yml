@@ -2,17 +2,21 @@ name: Website Tracker
 
 on:
   schedule:
-    # Runs every 10 minutes
-    - cron: '*/10 * * * *'
+    # Runs every 6 hours to restart the loop
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
 jobs:
   check-websites:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 350      # 5h50m — slightly above MAX_RUNTIME_MINUTES
 
     steps:
       - name: Checkout repository
@@ -38,7 +42,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p data
 
-      - name: Run tracker (single pass)
+      - name: Run tracker (looping mode)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
