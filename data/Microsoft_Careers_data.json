@@ -4,17 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 4 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750402?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Washing_556750402?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Engineer II\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620268?domain=microsoft.com",
+      "identifier": "Applied Engineer II\nUnited States, Washington, Red_556620268?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629190?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556629190?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 27 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754881?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Teams Observability / I_556754881?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556757879?domain=microsoft.com",
       "identifier": "Software Engineering II\nUnited States, Washington,_556757879?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 23 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 39 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827447?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556827447?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CTJ - TS\nUnited States, Washington, Redmond + 1 more\nPosted 32 minutes ago",
+      "title": "Software Engineer II - CTJ - TS\nUnited States, Washington, Redmond + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556626691?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - TS\nUnited States, Was_556626691?domain=microsoft.com"
     },
@@ -32,28 +52,8 @@
       "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556753132?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556753132?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753155?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556753155?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff - Copilot AI Evaluation Engineering Manager\nUnited States, California, Mountain View + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735311?domain=microsoft.com",
-      "identifier": "Member of Technical Staff - Copilot AI Evaluation _556735311?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering IC3\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826654?domain=microsoft.com",
-      "identifier": "Software Engineering IC3\nUnited States, Washington_556826654?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Machine Learning Scientist\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642946?domain=microsoft.com",
-      "identifier": "Senior Machine Learning Scientist\nUnited States, W_556642946?domain=microsoft.com"
     }
   ],
-  "job_count_text": "911",
-  "timestamp": "2026-03-11T20:59:49.215302"
+  "job_count_text": "914",
+  "timestamp": "2026-03-11T21:15:42.254476"
 }

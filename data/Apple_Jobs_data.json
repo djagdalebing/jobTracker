@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior ML and Backend Software Engineer - Special Projects",
+      "url": "https://jobs.apple.com/en-us/details/200651030-0836/senior-ml-and-backend-software-engineer-special-projects?team=SFTWR",
+      "identifier": "Senior ML and Backend Software Engineer - Special _er-special-projects?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Development Engineer- Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200651298-0836/senior-software-development-engineer-apple-maps?team=SFTWR",
+      "identifier": "Senior Software Development Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
+    },
+    {
       "title": "Metal API & Shader Instrumentation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651271-0836/metal-api-shader-instrumentation-engineer?team=SFTWR",
       "identifier": "Metal API & Shader Instrumentation Engineer_umentation-engineer?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Sr Software Engineer, AI & Data Platforms (AiDP)",
       "url": "https://jobs.apple.com/en-us/details/200649800-3401/sr-software-engineer-ai-data-platforms-aidp?team=SFTWR",
       "identifier": "Sr Software Engineer, AI & Data Platforms (AiDP)_data-platforms-aidp?team=SFTWR"
-    },
-    {
-      "title": "WebKit Privacy & Adtech Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651137-3401/webkit-privacy-adtech-engineer?team=SFTWR",
-      "identifier": "WebKit Privacy & Adtech Engineer_acy-adtech-engineer?team=SFTWR"
-    },
-    {
-      "title": "Manager - Software Engineer, Mail Intelligence",
-      "url": "https://jobs.apple.com/en-us/details/200651143-3401/manager-software-engineer-mail-intelligence?team=MLAI",
-      "identifier": "Manager - Software Engineer, Mail Intelligence_er-mail-intelligence?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T21:00:05.467723"
+  "timestamp": "2026-03-11T21:15:58.392524"
 }
