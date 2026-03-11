@@ -4,6 +4,16 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Data Engineering Manager, Finance Data & AI Foundation",
+      "url": "https://jobs.apple.com/en-us/details/200651090-3956/data-engineering-manager-finance-data-ai-foundation?team=SFTWR",
+      "identifier": "Data Engineering Manager, Finance Data & AI Founda_-data-ai-foundation?team=SFTWR"
+    },
+    {
+      "title": "iOS Software Engineer, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200644642-3956/ios-software-engineer-customer-systems?team=SFTWR",
+      "identifier": "iOS Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer - SIML, ISE",
       "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-siml-ise?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer - SIML, ISE_g-engineer-siml-ise?team=SFTWR"
@@ -59,21 +69,11 @@
       "identifier": "Senior Engineering Manager, Finance Data & SOX Pla_-data-sox-platforms?team=SFTWR"
     },
     {
-      "title": "Senior Software Engineer - Transparency - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651210-3543/senior-software-engineer-transparency-icloud?team=SFTWR",
-      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
-    },
-    {
       "title": "Senior Tools & Automation Engineer iCloud",
       "url": "https://jobs.apple.com/en-us/details/200651208-0836/senior-tools-automation-engineer-icloud?team=SFTWR",
       "identifier": "Senior Tools & Automation Engineer iCloud_ion-engineer-icloud?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200646076-2926/software-engineer?team=SFTWR",
-      "identifier": "Software Engineer_6/software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T18:18:16.868662"
+  "timestamp": "2026-03-11T18:34:16.886262"
 }

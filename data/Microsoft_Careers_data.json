@@ -4,22 +4,32 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "title": "Principal Software Engineer - Architecture & Design\nUnited States, Washington, Redmond\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556620653?domain=microsoft.com",
+      "identifier": "Principal Software Engineer - Architecture & Desig_556620653?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 25 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638777?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556638777?domain=microsoft.com"
+    },
+    {
+      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827544?domain=microsoft.com",
       "identifier": "Group Engineering Manager\nUnited States, Washingto_556827544?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834022?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556834022?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations\nPosted 29 minutes ago",
+      "title": "Principal Software Engineering Lead - Xbox\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826804?domain=microsoft.com",
       "identifier": "Principal Software Engineering Lead - Xbox\nUnited _556826804?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer, AI\nUnited States, Washington, Bellevue\nPosted 36 minutes ago",
+      "title": "Principal Software Engineer, AI\nUnited States, Washington, Bellevue\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750279?domain=microsoft.com",
       "identifier": "Principal Software Engineer, AI\nUnited States, Was_556750279?domain=microsoft.com"
     },
@@ -34,26 +44,16 @@
       "identifier": "Applied AI Engineer II\nUnited States, Washington, _556824059?domain=microsoft.com"
     },
     {
-      "title": "Applied AI Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Applied AI Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824088?domain=microsoft.com",
       "identifier": "Applied AI Scientist II\nUnited States, Multiple Lo_556824088?domain=microsoft.com"
     },
     {
-      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556735272?domain=microsoft.com",
       "identifier": "Applied AI Engineer II\nUnited States, Washington, _556735272?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556760029?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Multipl_556760029?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Azure Storage\nUnited States, Multiple Locations, Multiple Locations\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640659?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Azure Storage\nUnited St_556640659?domain=microsoft.com"
     }
   ],
-  "job_count_text": "908",
-  "timestamp": "2026-03-11T18:18:00.761578"
+  "job_count_text": "909",
+  "timestamp": "2026-03-11T18:34:00.768847"
 }
