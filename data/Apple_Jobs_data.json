@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Senior Software Development Engineer- Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200651298-0836/senior-software-development-engineer-apple-maps?team=SFTWR",
+      "identifier": "Senior Software Development Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
+    },
+    {
       "title": "iOS Software Engineer, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200644642-3956/ios-software-engineer-customer-systems?team=SFTWR",
       "identifier": "iOS Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
@@ -17,11 +22,6 @@
       "title": "Senior ML and Backend Software Engineer - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200651030-0836/senior-ml-and-backend-software-engineer-special-projects?team=SFTWR",
       "identifier": "Senior ML and Backend Software Engineer - Special _er-special-projects?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Development Engineer- Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200651298-0836/senior-software-development-engineer-apple-maps?team=SFTWR",
-      "identifier": "Senior Software Development Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
     },
     {
       "title": "Metal API & Shader Instrumentation Engineer",
@@ -95,5 +95,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T21:31:48.825753"
+  "timestamp": "2026-03-11T21:47:41.904502"
 }
