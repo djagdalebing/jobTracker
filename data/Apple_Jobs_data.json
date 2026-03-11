@@ -4,6 +4,11 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "iOS Software Engineer, Image Generation",
+      "url": "https://jobs.apple.com/en-us/details/200625215-0836/ios-software-engineer-image-generation?team=SFTWR",
+      "identifier": "iOS Software Engineer, Image Generation_er-image-generation?team=SFTWR"
+    },
+    {
       "title": "Machine Learning Systems Engineer",
       "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer?team=SFTWR",
       "identifier": "Machine Learning Systems Engineer_ng-systems-engineer?team=SFTWR"
@@ -87,13 +92,8 @@
       "title": "Engineering Manager, UI Frameworks (AR/VR)",
       "url": "https://jobs.apple.com/en-us/details/200632881-0365/engineering-manager-ui-frameworks-ar-vr?team=SFTWR",
       "identifier": "Engineering Manager, UI Frameworks (AR/VR)_ui-frameworks-ar-vr?team=SFTWR"
-    },
-    {
-      "title": "Wi-Fi Software Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649764-0836/wi-fi-software-engineer?team=SFTWR",
-      "identifier": "Wi-Fi Software Engineer_i-software-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T22:03:33.265507"
+  "timestamp": "2026-03-11T22:19:26.898823"
 }
