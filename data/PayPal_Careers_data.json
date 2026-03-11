@@ -1,8 +1,13 @@
 {
   "page_title": "Careers at PayPal | Eightfold",
-  "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&location=United+States&pid=274917119119&sort_by=timestamp&filter_include_remote=1&filter_job_category=Software+Engineering%2CData+Science%2CMachine+Learning+Engineering",
+  "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&location=United+States&pid=274917628134&sort_by=timestamp&filter_include_remote=1&filter_job_category=Software+Engineering%2CData+Science%2CMachine+Learning+Engineering",
   "total_jobs": 10,
   "jobs": [
+    {
+      "title": "Sr Software Engineer\nAustin, Texas, United States of America + 1 more\nSoftware Engineering\nPosted a day ago",
+      "url": "https://paypal.eightfold.ai/careers/job/274917628134?domain=paypal.com",
+      "identifier": "Sr Software Engineer\nAustin, Texas, United States _274917628134?domain=paypal.com"
+    },
     {
       "title": "Staff Software Engineer - Python\nSan Jose, California, United States of America + 1 more\nSoftware Engineering\nPosted 2 days ago",
       "url": "https://paypal.eightfold.ai/careers/job/274917119119?domain=paypal.com",
@@ -47,13 +52,8 @@
       "title": "Sr Software Engineer\nSan Jose, California, United States of America\nSoftware Engineering\nPosted 2 days ago",
       "url": "https://paypal.eightfold.ai/careers/job/274917673178?domain=paypal.com",
       "identifier": "Sr Software Engineer\nSan Jose, California, United _274917673178?domain=paypal.com"
-    },
-    {
-      "title": "Senior Front End Engineer\nChicago, Illinois, United States of America + 3 more\nSoftware Engineering\nPosted 2 days ago",
-      "url": "https://paypal.eightfold.ai/careers/job/274917690465?domain=paypal.com",
-      "identifier": "Senior Front End Engineer\nChicago, Illinois, Unite_274917690465?domain=paypal.com"
     }
   ],
-  "job_count_text": "208",
-  "timestamp": "2026-03-11T23:23:10.870860"
+  "job_count_text": "209",
+  "timestamp": "2026-03-11T23:39:03.970360"
 }

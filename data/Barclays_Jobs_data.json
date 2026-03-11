@@ -1,7 +1,7 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Prime RAD Developer",
@@ -69,21 +69,11 @@
       "identifier": "Legal Relationship Team Analyst_team-analyst/13015/92586943648"
     },
     {
-      "title": "Tax Operations Analyst",
-      "url": "https://search.jobs.barclays/job/whippany/tax-operations-analyst/13015/92574402352",
-      "identifier": "Tax Operations Analyst_ions-analyst/13015/92574402352"
-    },
-    {
       "title": "Product Owner, VP",
       "url": "https://search.jobs.barclays/job/new-york/product-owner-vp/13015/92574400832",
       "identifier": "Product Owner, VP_uct-owner-vp/13015/92574400832"
-    },
-    {
-      "title": "Control Mapping Operations (CMO) Program Support - AVP",
-      "url": "https://search.jobs.barclays/job/whippany/control-mapping-operations-cmo-program-support-avp/13015/92460280400",
-      "identifier": "Control Mapping Operations (CMO) Program Support -_-support-avp/13015/92460280400"
     }
   ],
-  "job_count_text": "85",
-  "timestamp": "2026-03-11T23:22:21.338629"
+  "job_count_text": "84",
+  "timestamp": "2026-03-11T23:38:14.446847"
 }

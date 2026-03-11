@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 19,
+  "total_jobs": 18,
   "jobs": [
+    {
+      "title": "Senior Computer Vision Architect",
+      "url": "https://jobs.apple.com/en-us/details/200650874-3956/senior-computer-vision-architect?team=MLAI",
+      "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
+    },
+    {
+      "title": "Senior Software Engineer - SWE Program Tools",
+      "url": "https://jobs.apple.com/en-us/details/200651141-0836/senior-software-engineer-swe-program-tools?team=SFTWR",
+      "identifier": "Senior Software Engineer - SWE Program Tools_r-swe-program-tools?team=SFTWR"
+    },
     {
       "title": "Software Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR",
@@ -82,23 +92,8 @@
       "title": "Senior Machine Learning Engineer - SIML, ISE",
       "url": "https://jobs.apple.com/en-us/details/200651112-0836/senior-machine-learning-engineer-siml-ise?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer - SIML, ISE_g-engineer-siml-ise?team=SFTWR"
-    },
-    {
-      "title": "Production Metal Frameworks Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651242-0836/production-metal-frameworks-engineer?team=SFTWR",
-      "identifier": "Production Metal Frameworks Engineer_frameworks-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - SWE Program Tools",
-      "url": "https://jobs.apple.com/en-us/details/200651141-3543/senior-software-engineer-swe-program-tools?team=SFTWR",
-      "identifier": "Senior Software Engineer - SWE Program Tools_r-swe-program-tools?team=SFTWR"
-    },
-    {
-      "title": "Engineering Manager, UI Frameworks (AR/VR)",
-      "url": "https://jobs.apple.com/en-us/details/200632881-0365/engineering-manager-ui-frameworks-ar-vr?team=SFTWR",
-      "identifier": "Engineering Manager, UI Frameworks (AR/VR)_ui-frameworks-ar-vr?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T23:22:53.967059"
+  "timestamp": "2026-03-11T23:38:47.079050"
 }
