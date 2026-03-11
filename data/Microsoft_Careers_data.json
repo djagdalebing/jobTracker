@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Principal Software Engineer - Architecture & Design\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
+      "title": "Software Engineering IC3\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556826654?domain=microsoft.com",
+      "identifier": "Software Engineering IC3\nUnited States, Washington_556826654?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Machine Learning Scientist\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556642946?domain=microsoft.com",
+      "identifier": "Senior Machine Learning Scientist\nUnited States, W_556642946?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer - Architecture & Design\nUnited States, Washington, Redmond\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620653?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Architecture & Desig_556620653?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 41 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556638777?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556638777?domain=microsoft.com"
     },
@@ -34,26 +44,16 @@
       "identifier": "Principal Software Engineer, AI\nUnited States, Was_556750279?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer, Minecraft\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556827384?domain=microsoft.com",
       "identifier": "Senior Software Engineer, Minecraft\nUnited States,_556827384?domain=microsoft.com"
     },
     {
-      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556824059?domain=microsoft.com",
       "identifier": "Applied AI Engineer II\nUnited States, Washington, _556824059?domain=microsoft.com"
-    },
-    {
-      "title": "Applied AI Scientist II\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556824088?domain=microsoft.com",
-      "identifier": "Applied AI Scientist II\nUnited States, Multiple Lo_556824088?domain=microsoft.com"
-    },
-    {
-      "title": "Applied AI Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556735272?domain=microsoft.com",
-      "identifier": "Applied AI Engineer II\nUnited States, Washington, _556735272?domain=microsoft.com"
     }
   ],
-  "job_count_text": "909",
-  "timestamp": "2026-03-11T18:49:59.323108"
+  "job_count_text": "910",
+  "timestamp": "2026-03-11T19:05:56.052080"
 }
