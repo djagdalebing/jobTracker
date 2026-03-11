@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 18,
+  "total_jobs": 19,
   "jobs": [
+    {
+      "title": "Kernel Scheduler Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651311-0836/kernel-scheduler-engineer?team=SFTWR",
+      "identifier": "Kernel Scheduler Engineer_-scheduler-engineer?team=SFTWR"
+    },
+    {
+      "title": "Engineering Program Manager - Software Developer Productivity - CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200615768-3401/engineering-program-manager-software-developer-productivity-coreos?team=SFTWR",
+      "identifier": "Engineering Program Manager - Software Developer P_productivity-coreos?team=SFTWR"
+    },
+    {
+      "title": "AIML - Machine Learning Engineer, MIND",
+      "url": "https://jobs.apple.com/en-us/details/200651341-3337/aiml-machine-learning-engineer-mind?team=MLAI",
+      "identifier": "AIML - Machine Learning Engineer, MIND_arning-engineer-mind?team=MLAI"
+    },
     {
       "title": "Senior Computer Vision Architect",
       "url": "https://jobs.apple.com/en-us/details/200650874-3956/senior-computer-vision-architect?team=MLAI",
@@ -39,11 +54,6 @@
       "identifier": "iOS Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
     },
     {
-      "title": "OS Scheduler Kernel Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651311-0836/os-scheduler-kernel-engineer?team=SFTWR",
-      "identifier": "OS Scheduler Kernel Engineer_ler-kernel-engineer?team=SFTWR"
-    },
-    {
       "title": "Senior ML and Backend Software Engineer - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200651030-0836/senior-ml-and-backend-software-engineer-special-projects?team=SFTWR",
       "identifier": "Senior ML and Backend Software Engineer - Special _er-special-projects?team=SFTWR"
@@ -52,11 +62,6 @@
       "title": "Metal API & Shader Instrumentation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651271-0836/metal-api-shader-instrumentation-engineer?team=SFTWR",
       "identifier": "Metal API & Shader Instrumentation Engineer_umentation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - Software Developer Productivity - CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200615768-3401/engineering-program-manager-software-developer-productivity-coreos?team=SFTWR",
-      "identifier": "Engineering Program Manager - Software Developer P_productivity-coreos?team=SFTWR"
     },
     {
       "title": "Computational Linguist",
@@ -95,5 +100,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-11T23:38:47.079050"
+  "timestamp": "2026-03-11T23:54:40.675302"
 }
