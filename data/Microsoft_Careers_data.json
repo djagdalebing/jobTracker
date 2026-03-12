@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 25 minutes ago",
+      "title": "Applied Scientist: Microsoft AI Development Acceleration Program, Redmond\nUnited States, Washington, Redmond\nPosted 3 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638831?domain=microsoft.com",
+      "identifier": "Applied Scientist: Microsoft AI Development Accele_556638831?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II: Microsoft AI Development Acceleration Program\nUnited States, Washington, Redmond + 1 more\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556643535?domain=microsoft.com",
+      "identifier": "Software Engineer II: Microsoft AI Development Acc_556643535?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer\nUnited States, Multiple Locations, Multiple Locations + 8 more\nPosted 20 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834724?domain=microsoft.com",
+      "identifier": "Principal Software Engineer\nUnited States, Multipl_556834724?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 40 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752822?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556752822?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 29 minutes ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 44 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752819?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556752819?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803993?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556803993?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752620?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556752620?domain=microsoft.com"
-    },
-    {
-      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754631?domain=microsoft.com",
-      "identifier": "Group Engineering Manager\nUnited States, Washingto_556754631?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769383?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556769383?domain=microsoft.com"
     }
   ],
-  "job_count_text": "892",
-  "timestamp": "2026-03-12T19:30:26.738918"
+  "job_count_text": "895",
+  "timestamp": "2026-03-12T19:45:01.962264"
 }
