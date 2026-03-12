@@ -4,6 +4,11 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Software Engineer II\nUnited States, Georgia, Atlanta\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556754078?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Georgia, Atlan_556754078?domain=microsoft.com"
+    },
+    {
       "title": "MTS - AI Platform Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 15 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749843?domain=microsoft.com",
       "identifier": "MTS - AI Platform Engineer\nUnited States, Washingt_556749843?domain=microsoft.com"
@@ -39,16 +44,11 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556629190?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 18 hours ago",
+      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 19 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754881?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Teams Observability / I_556754881?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 18 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556757879?domain=microsoft.com",
-      "identifier": "Software Engineering II\nUnited States, Washington,_556757879?domain=microsoft.com"
     }
   ],
-  "job_count_text": "886",
-  "timestamp": "2026-03-12T15:04:47.345533"
+  "job_count_text": "887",
+  "timestamp": "2026-03-12T15:20:40.364946"
 }
