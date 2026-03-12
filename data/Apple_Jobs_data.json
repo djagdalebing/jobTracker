@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Media Applications Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer?team=SFTWR",
+      "identifier": "Senior Media Applications Engineer_plications-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Software Engineer - Transparency - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200651276-0836/senior-software-engineer-transparency-icloud?team=SFTWR",
       "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Software Engineer - SWE Program Tools",
       "url": "https://jobs.apple.com/en-us/details/200651141-0836/senior-software-engineer-swe-program-tools?team=SFTWR",
       "identifier": "Senior Software Engineer - SWE Program Tools_r-swe-program-tools?team=SFTWR"
-    },
-    {
-      "title": "iOS Software Engineer, Image Generation",
-      "url": "https://jobs.apple.com/en-us/details/200625215-0836/ios-software-engineer-image-generation?team=SFTWR",
-      "identifier": "iOS Software Engineer, Image Generation_er-image-generation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T14:33:12.894650"
+  "timestamp": "2026-03-12T14:49:09.807033"
 }
