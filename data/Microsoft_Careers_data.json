@@ -4,12 +4,17 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752620?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Washington_556752620?domain=microsoft.com"
+    },
+    {
+      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754631?domain=microsoft.com",
       "identifier": "Group Engineering Manager\nUnited States, Washingto_556754631?domain=microsoft.com"
     },
     {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 32 minutes ago",
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556769383?domain=microsoft.com",
       "identifier": "Senior Applied Scientist\nUnited States, Washington_556769383?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer - Identity & Security\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837673?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Identity & Security\nUni_556837673?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556750402?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556750402?domain=microsoft.com"
     }
   ],
-  "job_count_text": "889",
-  "timestamp": "2026-03-12T17:18:48.167731"
+  "job_count_text": "890",
+  "timestamp": "2026-03-12T17:33:25.463198"
 }
