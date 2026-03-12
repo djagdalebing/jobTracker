@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Engineering Program Manager, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
+      "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Development Engineer - Data, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-development-engineer-data-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Development Engineer - Data, Siri Spe_er-data-siri-speech?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Business Systems Analyst (SAP PMO), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200651129-3401/business-systems-analyst-sap-pmo-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Business Systems Analyst (SAP PMO), IS&T Enterpris_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651121-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T23:15:27.248394"
+  "timestamp": "2026-03-12T23:30:00.579123"
 }
