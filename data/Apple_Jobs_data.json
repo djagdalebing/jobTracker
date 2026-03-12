@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Supplier Operations Analyst, Infrastructure Services",
+      "url": "https://jobs.apple.com/en-us/details/200650880-0157/supplier-operations-analyst-infrastructure-services?team=SFTWR",
+      "identifier": "Supplier Operations Analyst, Infrastructure Servic_astructure-services?team=SFTWR"
+    },
+    {
+      "title": "Engineering Project Manager, Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200649813-3401/engineering-project-manager-sales-engineering?team=SFTWR",
+      "identifier": "Engineering Project Manager, Sales Engineering_r-sales-engineering?team=SFTWR"
+    },
+    {
+      "title": "Business Systems Analyst (SAP PMO), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200651129-3401/business-systems-analyst-sap-pmo-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Business Systems Analyst (SAP PMO), IS&T Enterpris_-enterprise-systems?team=SFTWR"
+    },
+    {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200651121-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
+    },
     {
       "title": "Machine Learning Engineer - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200651501-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
@@ -62,23 +82,8 @@
       "title": "Senior Media Applications Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer?team=SFTWR",
       "identifier": "Senior Media Applications Engineer_plications-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Transparency - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651276-0836/senior-software-engineer-transparency-icloud?team=SFTWR",
-      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - Ads Bidding & Pacing",
-      "url": "https://jobs.apple.com/en-us/details/200649540-0836/senior-machine-learning-engineer-ads-bidding-pacing?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer - Ads Bidding & P_-ads-bidding-pacing?team=SFTWR"
-    },
-    {
-      "title": "Large Machine Learning Model Optimization Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer?team=SFTWR",
-      "identifier": "Large Machine Learning Model Optimization Engineer_timization-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T20:58:28.758783"
+  "timestamp": "2026-03-12T21:13:15.077638"
 }
