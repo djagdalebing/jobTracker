@@ -4,19 +4,9 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Workforce Development Specialist, TPG\nLongmont, Colorado, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40777706",
-      "identifier": "Workforce Development Specialist, TPG\nLongmont, Co_icron.com/careers/job/40777706"
-    },
-    {
       "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
-    },
-    {
-      "title": "New College Grad - PSE Design Validation Engineer, HBM\nRichardson, Texas, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40795187",
-      "identifier": "New College Grad - PSE Design Validation Engineer,_icron.com/careers/job/40795187"
     },
     {
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -29,9 +19,19 @@
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/40777576"
     },
     {
+      "title": "New College Grad - PSE Design Validation Engineer, HBM\nRichardson, Texas, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40795187",
+      "identifier": "New College Grad - PSE Design Validation Engineer,_icron.com/careers/job/40795187"
+    },
+    {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40475196",
       "identifier": "New College Grad - Process Integration Engineer\nBo_icron.com/careers/job/40475196"
+    },
+    {
+      "title": "Workforce Development Specialist, TPG\nLongmont, Colorado, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40777706",
+      "identifier": "Workforce Development Specialist, TPG\nLongmont, Co_icron.com/careers/job/40777706"
     },
     {
       "title": "Real-Time Defect Analysis (RDA) Engineer-DRAM (Open)\nBoise, Idaho, United States of America\nPosted 3 days ago",
@@ -54,6 +54,6 @@
       "identifier": "Yield Analysis Engineer\nBoise, Idaho, United State_icron.com/careers/job/40159105"
     }
   ],
-  "job_count_text": "63",
-  "timestamp": "2026-03-12T16:28:22.586129"
+  "job_count_text": "62",
+  "timestamp": "2026-03-12T16:44:15.730507"
 }
