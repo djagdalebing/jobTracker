@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Assurance Specialist - AVP",
+      "url": "https://search.jobs.barclays/job/new-york/assurance-specialist-avp/13015/92690375376",
+      "identifier": "Assurance Specialist - AVP_ecialist-avp/13015/92690375376"
+    },
+    {
       "title": "Film Specialist AVP",
       "url": "https://search.jobs.barclays/job/new-york/film-specialist-avp/13015/92690375344",
       "identifier": "Film Specialist AVP_ecialist-avp/13015/92690375344"
@@ -72,13 +77,8 @@
       "title": "Colleagues Ways of Working Execution Coach - VP",
       "url": "https://search.jobs.barclays/job/new-york/colleagues-ways-of-working-execution-coach-vp/13015/92625822160",
       "identifier": "Colleagues Ways of Working Execution Coach - VP_ion-coach-vp/13015/92625822160"
-    },
-    {
-      "title": "Mortgage Data Engineer, AVP",
-      "url": "https://search.jobs.barclays/job/whippany/mortgage-data-engineer-avp/13015/92613194448",
-      "identifier": "Mortgage Data Engineer, AVP_engineer-avp/13015/92613194448"
     }
   ],
-  "job_count_text": "86",
-  "timestamp": "2026-03-12T23:29:28.702168"
+  "job_count_text": "85",
+  "timestamp": "2026-03-12T23:44:02.783105"
 }

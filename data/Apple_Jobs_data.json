@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Junior UI Compositing Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?team=SFTWR",
+      "identifier": "Junior UI Compositing Engineer_ompositing-engineer?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Supplier Operations Analyst, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200650880-0157/supplier-operations-analyst-infrastructure-services?team=SFTWR",
       "identifier": "Supplier Operations Analyst, Infrastructure Servic_astructure-services?team=SFTWR"
-    },
-    {
-      "title": "Business Systems Analyst (SAP PMO), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651129-3401/business-systems-analyst-sap-pmo-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Business Systems Analyst (SAP PMO), IS&T Enterpris_-enterprise-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T23:30:00.579123"
+  "timestamp": "2026-03-12T23:44:35.981192"
 }
