@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Software Engineer - Transparency - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200651276-0836/senior-software-engineer-transparency-icloud?team=SFTWR",
+      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Ads Bidding & Pacing",
+      "url": "https://jobs.apple.com/en-us/details/200649540-0836/senior-machine-learning-engineer-ads-bidding-pacing?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - Ads Bidding & P_-ads-bidding-pacing?team=SFTWR"
+    },
     {
       "title": "Large Machine Learning Model Optimization Engineer",
       "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer?team=SFTWR",
@@ -17,11 +27,6 @@
       "title": "Senior Computer Vision Architect",
       "url": "https://jobs.apple.com/en-us/details/200651360-3956/senior-computer-vision-architect?team=MLAI",
       "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
-    },
-    {
-      "title": "Senior Software Engineer - Transparency - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651300-3543/senior-software-engineer-transparency-icloud?team=SFTWR",
-      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
     },
     {
       "title": "Software Engineer - Data",
@@ -67,18 +72,8 @@
       "title": "iOS Software Engineer, Image Generation",
       "url": "https://jobs.apple.com/en-us/details/200625215-0836/ios-software-engineer-image-generation?team=SFTWR",
       "identifier": "iOS Software Engineer, Image Generation_er-image-generation?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Systems Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer?team=SFTWR",
-      "identifier": "Machine Learning Systems Engineer_ng-systems-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Development Engineer- Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200651298-0836/senior-software-development-engineer-apple-maps?team=SFTWR",
-      "identifier": "Senior Software Development Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T13:45:36.004800"
+  "timestamp": "2026-03-12T14:01:28.408489"
 }
