@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "title": "MTS - AI Platform Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749843?domain=microsoft.com",
+      "identifier": "MTS - AI Platform Engineer\nUnited States, Washingt_556749843?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837672?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556837672?domain=microsoft.com"
     },
@@ -34,14 +39,9 @@
       "identifier": "Senior Software Engineer\nUnited States, Washington_556629190?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 3 hours ago",
+      "title": "Senior Software Engineer - Teams Observability / Instrumentation\nUnited States, Washington, Redmond\nPosted 4 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754881?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Teams Observability / I_556754881?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556757879?domain=microsoft.com",
-      "identifier": "Software Engineering II\nUnited States, Washington,_556757879?domain=microsoft.com"
     },
     {
       "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 4 hours ago",
@@ -49,11 +49,11 @@
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556827447?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CTJ - TS\nUnited States, Washington, Redmond + 1 more\nPosted 4 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556626691?domain=microsoft.com",
-      "identifier": "Software Engineer II - CTJ - TS\nUnited States, Was_556626691?domain=microsoft.com"
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 4 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556757879?domain=microsoft.com",
+      "identifier": "Software Engineering II\nUnited States, Washington,_556757879?domain=microsoft.com"
     }
   ],
-  "job_count_text": "913",
-  "timestamp": "2026-03-12T00:10:19.100809"
+  "job_count_text": "914",
+  "timestamp": "2026-03-12T00:26:13.248534"
 }
