@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr Messages Infrastructure Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651363-3401/sr-messages-infrastructure-engineer?team=SFTWR",
+      "identifier": "Sr Messages Infrastructure Engineer_astructure-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Site Reliability Engineer - ASE / iCloud",
       "url": "https://jobs.apple.com/en-us/details/200649118-3337/senior-site-reliability-engineer-ase-icloud?team=SFTWR",
       "identifier": "Senior Site Reliability Engineer - ASE / iCloud_engineer-ase-icloud?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Software Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR",
       "identifier": "Software Engineer - Data_tware-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Manager, Intelligent System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200635998-3401/sr-machine-learning-manager-intelligent-system-experience?team=SFTWR",
-      "identifier": "Sr Machine Learning Manager, Intelligent System Ex_t-system-experience?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T19:01:27.994288"
+  "timestamp": "2026-03-12T19:16:05.390623"
 }
