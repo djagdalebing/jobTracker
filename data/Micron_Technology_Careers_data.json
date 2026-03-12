@@ -4,11 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40644916",
-      "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
-    },
-    {
       "title": "Workforce Development Specialist, TPG\nLongmont, Colorado, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40777706",
       "identifier": "Workforce Development Specialist, TPG\nLongmont, Co_icron.com/careers/job/40777706"
@@ -27,6 +22,11 @@
       "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40777576",
       "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/40777576"
+    },
+    {
+      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40644916",
+      "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
     },
     {
       "title": "New College Grad - Process Integration Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "63",
-  "timestamp": "2026-03-12T08:08:33.931791"
+  "timestamp": "2026-03-12T08:24:31.445146"
 }

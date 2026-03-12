@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Large Machine Learning Model Optimization Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer?team=SFTWR",
+      "identifier": "Large Machine Learning Model Optimization Engineer_timization-engineer?team=SFTWR"
+    },
+    {
       "title": "UI Designer - Music Creation Apps",
       "url": "https://jobs.apple.com/en-us/details/200649647-0670/ui-designer-music-creation-apps?team=SFTWR",
       "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "iOS Software Engineer, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200644642-3956/ios-software-engineer-customer-systems?team=SFTWR",
       "identifier": "iOS Software Engineer, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior ML and Backend Software Engineer - Special Projects",
-      "url": "https://jobs.apple.com/en-us/details/200651030-0836/senior-ml-and-backend-software-engineer-special-projects?team=SFTWR",
-      "identifier": "Senior ML and Backend Software Engineer - Special _er-special-projects?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T08:04:41.949858"
+  "timestamp": "2026-03-12T08:20:39.717944"
 }
