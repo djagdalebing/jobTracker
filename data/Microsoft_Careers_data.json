@@ -4,12 +4,17 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 36 minutes ago",
+      "title": "Member of Technical Staff, Principal Tech Lead Manager, Image Generation\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843566?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Principal Tech Lead Man_556843566?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752620?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556752620?domain=microsoft.com"
     },
     {
-      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
+      "title": "Group Engineering Manager\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754631?domain=microsoft.com",
       "identifier": "Group Engineering Manager\nUnited States, Washingto_556754631?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556619823?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556619823?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer - Identity & Security\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556837673?domain=microsoft.com",
-      "identifier": "Senior Software Engineer - Identity & Security\nUni_556837673?domain=microsoft.com"
     }
   ],
-  "job_count_text": "890",
-  "timestamp": "2026-03-12T17:48:05.157348"
+  "job_count_text": "891",
+  "timestamp": "2026-03-12T18:02:44.511080"
 }
