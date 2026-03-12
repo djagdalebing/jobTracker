@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 20 minutes ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
-      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
-    },
-    {
-      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 22 minutes ago",
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / SWE\nUnited States, Multiple Locations, Multiple Locations\nPosted 36 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652519?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652519?domain=microsoft.com"
+    },
+    {
+      "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 35 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
+      "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
     },
     {
       "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted an hour ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "898",
-  "timestamp": "2026-03-12T20:43:36.646848"
+  "timestamp": "2026-03-12T20:58:12.706930"
 }
