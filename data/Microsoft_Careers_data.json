@@ -4,17 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
+      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 9 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556769383?domain=microsoft.com",
+      "identifier": "Senior Applied Scientist\nUnited States, Washington_556769383?domain=microsoft.com"
+    },
+    {
       "title": "Software Engineering IC5\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556825135?domain=microsoft.com",
       "identifier": "Software Engineering IC5\nUnited States, Washington_556825135?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Georgia, Atlanta\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Georgia, Atlanta\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556754078?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Georgia, Atlan_556754078?domain=microsoft.com"
     },
     {
-      "title": "MTS - AI Platform Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 16 hours ago",
+      "title": "MTS - AI Platform Engineer\nUnited States, Washington, Redmond + 1 more\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749843?domain=microsoft.com",
       "identifier": "MTS - AI Platform Engineer\nUnited States, Washingt_556749843?domain=microsoft.com"
     },
@@ -34,7 +39,7 @@
       "identifier": "Senior Software Engineer - Identity & Security\nUni_556837673?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 19 hours ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556750402?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556750402?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Applied Engineer II\nUnited States, Washington, Redmond\nPosted 20 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556620268?domain=microsoft.com",
       "identifier": "Applied Engineer II\nUnited States, Washington, Red_556620268?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629190?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556629190?domain=microsoft.com"
     }
   ],
   "job_count_text": "888",
-  "timestamp": "2026-03-12T16:40:10.417817"
+  "timestamp": "2026-03-12T16:56:04.864595"
 }

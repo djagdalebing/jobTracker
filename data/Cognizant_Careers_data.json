@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Application Modernization Solutions Sales Specialist - Healthcare",
+      "url": "https://careers.cognizant.com/us-en/jobs/00066545081/application-modernization-solutions-sales-specialist-healthcare/",
+      "identifier": "Application Modernization Solutions Sales Speciali_s-sales-specialist-healthcare/"
+    },
+    {
+      "title": "Senior Development Team Lead",
+      "url": "https://careers.cognizant.com/us-en/jobs/00067934921/senior-development-team-lead/",
+      "identifier": "Senior Development Team Lead_/senior-development-team-lead/"
+    },
+    {
       "title": "Pega Lead System Architect - Associate Director - 00067985121",
       "url": "https://careers.cognizant.com/us-en/jobs/00067985121/pega-lead-system-architect-associate-director-00067985121/",
       "identifier": "Pega Lead System Architect - Associate Director - _ssociate-director-00067985121/"
@@ -42,18 +52,8 @@
       "title": "Senior Salesforce Administrator",
       "url": "https://careers.cognizant.com/us-en/jobs/00067917771/senior-salesforce-administrator/",
       "identifier": "Senior Salesforce Administrator_nior-salesforce-administrator/"
-    },
-    {
-      "title": "Practice Lead - ServiceNow Platform",
-      "url": "https://careers.cognizant.com/us-en/jobs/00067705491/practice-lead-servicenow-platform/",
-      "identifier": "Practice Lead - ServiceNow Platform_tice-lead-servicenow-platform/"
-    },
-    {
-      "title": "Lead Healthcare Product Owner \u2013 QNXT (Hybrid)",
-      "url": "https://careers.cognizant.com/us-en/jobs/00067900731/lead-healthcare-product-owner-qnxt-hybrid/",
-      "identifier": "Lead Healthcare Product Owner \u2013 QNXT (Hybrid)_are-product-owner-qnxt-hybrid/"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T16:43:38.316176"
+  "timestamp": "2026-03-12T16:59:33.547083"
 }

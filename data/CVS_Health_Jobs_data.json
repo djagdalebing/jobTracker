@@ -4,19 +4,24 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Senior Data Scientist - AI",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0835225/Senior-Data-Scientist-AI",
-      "identifier": "Senior Data Scientist - AI_35225/Senior-Data-Scientist-AI"
-    },
-    {
       "title": "Machine Learning Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0852628/Machine-Learning-Engineer",
       "identifier": "Machine Learning Engineer_2628/Machine-Learning-Engineer"
     },
     {
+      "title": "Senior Data Scientist - AI",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0835225/Senior-Data-Scientist-AI",
+      "identifier": "Senior Data Scientist - AI_35225/Senior-Data-Scientist-AI"
+    },
+    {
       "title": "Sr Product Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0828843/Sr-Product-Analyst",
       "identifier": "Sr Product Analyst_ob/R0828843/Sr-Product-Analyst"
+    },
+    {
+      "title": "Sr Strategic Advisor - Workforce Planning",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0810161/Sr-Strategic-Advisor-Workforce-Planning",
+      "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
     },
     {
       "title": "Sr Analyst, Stars Analytics",
@@ -34,16 +39,11 @@
       "identifier": "Data Scientist \u2013 Retail Analytics_ata-Scientist-Retail-Analytics"
     },
     {
-      "title": "Sr Strategic Advisor - Workforce Planning",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0810161/Sr-Strategic-Advisor-Workforce-Planning",
-      "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
-    },
-    {
-      "title": "Senior Data Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0731860/Senior-Data-Engineering-Manager",
-      "identifier": "Senior Data Engineering Manager_enior-Data-Engineering-Manager"
+      "title": "Sr. Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0841216/Sr-Data-Engineer",
+      "identifier": "Sr. Data Engineer_/job/R0841216/Sr-Data-Engineer"
     }
   ],
   "job_count_text": "38",
-  "timestamp": "2026-03-12T16:41:42.737614"
+  "timestamp": "2026-03-12T16:57:38.319129"
 }

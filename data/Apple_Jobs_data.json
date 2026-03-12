@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Pre-silicon ML and Compute Framework Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
+      "identifier": "Pre-silicon ML and Compute Framework Engineer_-framework-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior Machine Learning Engineer - Ads Auction",
       "url": "https://jobs.apple.com/en-us/details/200651407-0836/senior-machine-learning-engineer-ads-auction?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer - Ads Auction_ngineer-ads-auction?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "AIML - Machine Learning Engineer, MIND",
       "url": "https://jobs.apple.com/en-us/details/200651341-3337/aiml-machine-learning-engineer-mind?team=MLAI",
       "identifier": "AIML - Machine Learning Engineer, MIND_arning-engineer-mind?team=MLAI"
-    },
-    {
-      "title": "Senior Software Engineer - SWE Program Tools",
-      "url": "https://jobs.apple.com/en-us/details/200651141-0836/senior-software-engineer-swe-program-tools?team=SFTWR",
-      "identifier": "Senior Software Engineer - SWE Program Tools_r-swe-program-tools?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T16:40:26.288092"
+  "timestamp": "2026-03-12T16:56:21.054860"
 }
