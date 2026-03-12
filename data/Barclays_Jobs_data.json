@@ -1,8 +1,28 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Film Specialist AVP",
+      "url": "https://search.jobs.barclays/job/new-york/film-specialist-avp/13015/92690375344",
+      "identifier": "Film Specialist AVP_ecialist-avp/13015/92690375344"
+    },
+    {
+      "title": "Payments & Cash Management Sales \u2013 Corporates VP",
+      "url": "https://search.jobs.barclays/job/new-york/payments-and-cash-management-sales-corporates-vp/13015/92690372512",
+      "identifier": "Payments & Cash Management Sales \u2013 Corporates VP_orporates-vp/13015/92690372512"
+    },
+    {
+      "title": "IAM Governance Analyst - BA4",
+      "url": "https://search.jobs.barclays/job/whippany/iam-governance-analyst-ba4/13015/92690371968",
+      "identifier": "IAM Governance Analyst - BA4_-analyst-ba4/13015/92690371968"
+    },
+    {
+      "title": "Controls Partner VP",
+      "url": "https://search.jobs.barclays/job/wilmington/controls-partner-vp/13015/92690337664",
+      "identifier": "Controls Partner VP_s-partner-vp/13015/92690337664"
+    },
     {
       "title": "Business Information Security Officer",
       "url": "https://search.jobs.barclays/job/wilmington/business-information-security-officer/13015/92664255984",
@@ -57,33 +77,8 @@
       "title": "Mortgage Data Engineer, AVP",
       "url": "https://search.jobs.barclays/job/whippany/mortgage-data-engineer-avp/13015/92613194448",
       "identifier": "Mortgage Data Engineer, AVP_engineer-avp/13015/92613194448"
-    },
-    {
-      "title": "Transaction Banking Project Manager, VP",
-      "url": "https://search.jobs.barclays/job/new-york/transaction-banking-project-manager-vp/13015/92613185984",
-      "identifier": "Transaction Banking Project Manager, VP_t-manager-vp/13015/92613185984"
-    },
-    {
-      "title": "Transaction Banking Project Manager, AVP",
-      "url": "https://search.jobs.barclays/job/new-york/transaction-banking-project-manager-avp/13015/92613185936",
-      "identifier": "Transaction Banking Project Manager, AVP_-manager-avp/13015/92613185936"
-    },
-    {
-      "title": "AVP - Fraud Analytics",
-      "url": "https://search.jobs.barclays/job/wilmington/avp-fraud-analytics/13015/92586945392",
-      "identifier": "AVP - Fraud Analytics_ud-analytics/13015/92586945392"
-    },
-    {
-      "title": "Legal Relationship Team Analyst",
-      "url": "https://search.jobs.barclays/job/new-york/legal-relationship-team-analyst/13015/92586943648",
-      "identifier": "Legal Relationship Team Analyst_team-analyst/13015/92586943648"
-    },
-    {
-      "title": "Product Owner, VP",
-      "url": "https://search.jobs.barclays/job/new-york/product-owner-vp/13015/92574400832",
-      "identifier": "Product Owner, VP_uct-owner-vp/13015/92574400832"
     }
   ],
-  "job_count_text": "80",
-  "timestamp": "2026-03-12T17:33:08.020683"
+  "job_count_text": "86",
+  "timestamp": "2026-03-12T17:47:46.433561"
 }

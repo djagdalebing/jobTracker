@@ -1,8 +1,28 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 12,
   "jobs": [
+    {
+      "title": "Software Engineer - Creator Studio",
+      "url": "https://jobs.apple.com/en-us/details/200646729-1435/software-engineer-creator-studio?team=SFTWR",
+      "identifier": "Software Engineer - Creator Studio_neer-creator-studio?team=SFTWR"
+    },
+    {
+      "title": "WebKit Developer Productivity Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651142-0836/webkit-developer-productivity-engineer?team=SFTWR",
+      "identifier": "WebKit Developer Productivity Engineer_oductivity-engineer?team=SFTWR"
+    },
+    {
+      "title": "Manager, Engineering Program Management - Strategic Data Solutions",
+      "url": "https://jobs.apple.com/en-us/details/200650865-0157/manager-engineering-program-management-strategic-data-solutions?team=SFTWR",
+      "identifier": "Manager, Engineering Program Management - Strategi_egic-data-solutions?team=SFTWR"
+    },
+    {
+      "title": "Senior Manager, AI Data Operations",
+      "url": "https://jobs.apple.com/en-us/details/200650419-0157/senior-manager-ai-data-operations?team=SFTWR",
+      "identifier": "Senior Manager, AI Data Operations_-ai-data-operations?team=SFTWR"
+    },
     {
       "title": "Pre-silicon ML and Compute Framework Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
@@ -42,38 +62,8 @@
       "title": "Senior Computer Vision Architect",
       "url": "https://jobs.apple.com/en-us/details/200651360-3956/senior-computer-vision-architect?team=MLAI",
       "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
-    },
-    {
-      "title": "Software Engineer - Data",
-      "url": "https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR",
-      "identifier": "Software Engineer - Data_tware-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Sr Machine Learning Manager, Intelligent System Experience",
-      "url": "https://jobs.apple.com/en-us/details/200635998-3401/sr-machine-learning-manager-intelligent-system-experience?team=SFTWR",
-      "identifier": "Sr Machine Learning Manager, Intelligent System Ex_t-system-experience?team=SFTWR"
-    },
-    {
-      "title": "Data Engineer, Find My",
-      "url": "https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR",
-      "identifier": "Data Engineer, Find My_ta-engineer-find-my?team=SFTWR"
-    },
-    {
-      "title": "Senior Build and Release Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651339-3577/senior-build-and-release-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Build and Release Engineer, Apple Services _ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Kernel Scheduler Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651311-0836/kernel-scheduler-engineer?team=SFTWR",
-      "identifier": "Kernel Scheduler Engineer_-scheduler-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager - Software Developer Productivity - CoreOS",
-      "url": "https://jobs.apple.com/en-us/details/200615768-3401/engineering-program-manager-software-developer-productivity-coreos?team=SFTWR",
-      "identifier": "Engineering Program Manager - Software Developer P_productivity-coreos?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T17:33:42.121342"
+  "timestamp": "2026-03-12T17:48:21.362147"
 }
