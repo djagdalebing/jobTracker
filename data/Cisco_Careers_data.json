@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Strategy & Planning Analyst",
-      "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
-      "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
-    },
-    {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
+    },
+    {
+      "title": "Strategy & Planning Analyst",
+      "url": "https://careers.cisco.com/global/en/job/2010758/Strategy-Planning-Analyst",
+      "identifier": "Strategy & Planning Analyst_0758/Strategy-Planning-Analyst"
     },
     {
       "title": "Business Analyst I (Full Time) United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "29",
-  "timestamp": "2026-03-12T02:57:52.014853"
+  "timestamp": "2026-03-12T03:13:45.641207"
 }

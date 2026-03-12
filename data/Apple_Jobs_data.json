@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Computer Vision Architect",
+      "url": "https://jobs.apple.com/en-us/details/200651360-3956/senior-computer-vision-architect?team=MLAI",
+      "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
+    },
+    {
       "title": "Senior Software Engineer - Transparency - iCloud",
       "url": "https://jobs.apple.com/en-us/details/200651300-3543/senior-software-engineer-transparency-icloud?team=SFTWR",
       "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
@@ -42,11 +47,6 @@
       "title": "AIML - Machine Learning Engineer, MIND",
       "url": "https://jobs.apple.com/en-us/details/200651341-3337/aiml-machine-learning-engineer-mind?team=MLAI",
       "identifier": "AIML - Machine Learning Engineer, MIND_arning-engineer-mind?team=MLAI"
-    },
-    {
-      "title": "Senior Computer Vision Architect",
-      "url": "https://jobs.apple.com/en-us/details/200650874-3956/senior-computer-vision-architect?team=MLAI",
-      "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
     },
     {
       "title": "Senior Software Engineer - SWE Program Tools",
@@ -90,5 +90,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T02:55:51.583647"
+  "timestamp": "2026-03-12T03:11:44.418491"
 }
