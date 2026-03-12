@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "iOS Software Engineering Manager, Image Generation",
+      "url": "https://jobs.apple.com/en-us/details/200625189-0836/ios-software-engineering-manager-image-generation?team=SFTWR",
+      "identifier": "iOS Software Engineering Manager, Image Generation_er-image-generation?team=SFTWR"
+    },
+    {
       "title": "Sr Messages Infrastructure Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651363-3401/sr-messages-infrastructure-engineer?team=SFTWR",
       "identifier": "Sr Messages Infrastructure Engineer_astructure-engineer?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "UI Designer - Music Creation Apps",
       "url": "https://jobs.apple.com/en-us/details/200649647-0670/ui-designer-music-creation-apps?team=SFTWR",
       "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
-    },
-    {
-      "title": "Senior Computer Vision Architect",
-      "url": "https://jobs.apple.com/en-us/details/200651360-3956/senior-computer-vision-architect?team=MLAI",
-      "identifier": "Senior Computer Vision Architect_ter-vision-architect?team=MLAI"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T19:45:18.729904"
+  "timestamp": "2026-03-12T19:59:55.950863"
 }
