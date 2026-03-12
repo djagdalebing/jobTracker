@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Machine Learning Engineer - Strategic Data Solutions",
+      "url": "https://jobs.apple.com/en-us/details/200651501-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
+      "identifier": "Machine Learning Engineer - Strategic Data Solutio_egic-data-solutions?team=SFTWR"
+    },
+    {
       "title": "Sr. Software Engineering Manager, Apple Intelligence, Personalization UI",
       "url": "https://jobs.apple.com/en-us/details/200629991-0836/sr-software-engineering-manager-apple-intelligence-personalization-ui?team=SFTWR",
       "identifier": "Sr. Software Engineering Manager, Apple Intelligen_-personalization-ui?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Large Machine Learning Model Optimization Engineer",
       "url": "https://jobs.apple.com/en-us/details/200626700-3337/large-machine-learning-model-optimization-engineer?team=SFTWR",
       "identifier": "Large Machine Learning Model Optimization Engineer_timization-engineer?team=SFTWR"
-    },
-    {
-      "title": "UI Designer - Music Creation Apps",
-      "url": "https://jobs.apple.com/en-us/details/200649647-0670/ui-designer-music-creation-apps?team=SFTWR",
-      "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T20:29:11.632468"
+  "timestamp": "2026-03-12T20:43:52.642368"
 }
