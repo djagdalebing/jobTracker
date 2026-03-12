@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Senior Software Engineer - Transparency - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200651300-3543/senior-software-engineer-transparency-icloud?team=SFTWR",
+      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Data",
       "url": "https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR",
       "identifier": "Software Engineer - Data_tware-engineer-data?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Computational Linguist",
       "url": "https://jobs.apple.com/en-us/details/200650142-0836/computational-linguist?team=SFTWR",
       "identifier": "Computational Linguist_putational-linguist?team=SFTWR"
-    },
-    {
-      "title": "Senior Engineering Manager, Finance Data & SOX Platforms",
-      "url": "https://jobs.apple.com/en-us/details/200651087-3956/senior-engineering-manager-finance-data-sox-platforms?team=SFTWR",
-      "identifier": "Senior Engineering Manager, Finance Data & SOX Pla_-data-sox-platforms?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T02:24:07.813441"
+  "timestamp": "2026-03-12T02:40:00.184359"
 }
