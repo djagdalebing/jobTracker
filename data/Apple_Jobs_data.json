@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Senior Machine Learning Engineer - Ads Auction",
+      "url": "https://jobs.apple.com/en-us/details/200651407-0836/senior-machine-learning-engineer-ads-auction?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - Ads Auction_ngineer-ads-auction?team=SFTWR"
+    },
     {
       "title": "Senior Media Applications Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer?team=SFTWR",
@@ -75,5 +80,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T15:52:40.574123"
+  "timestamp": "2026-03-12T16:08:36.276552"
 }
