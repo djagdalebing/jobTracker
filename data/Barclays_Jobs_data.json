@@ -1,8 +1,18 @@
 {
   "page_title": "Search our Job Opportunities at Barclays",
   "url": "https://search.jobs.barclays/search-jobs/United%20States/13015/2/6252001/39x76/-98x5/50/2",
-  "total_jobs": 14,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Business Information Security Officer",
+      "url": "https://search.jobs.barclays/job/wilmington/business-information-security-officer/13015/92664255984",
+      "identifier": "Business Information Security Officer_rity-officer/13015/92664255984"
+    },
+    {
+      "title": "Barclays Internal Audit- Change AVP",
+      "url": "https://search.jobs.barclays/job/new-york/barclays-internal-audit-change-avp/13015/92664242000",
+      "identifier": "Barclays Internal Audit- Change AVP_t-change-avp/13015/92664242000"
+    },
     {
       "title": "Prime RAD Developer",
       "url": "https://search.jobs.barclays/job/new-york/prime-rad-developer/13015/92651848368",
@@ -75,5 +85,5 @@
     }
   ],
   "job_count_text": "80",
-  "timestamp": "2026-03-12T11:31:17.685495"
+  "timestamp": "2026-03-12T11:47:13.967615"
 }
