@@ -1,20 +1,25 @@
 {
   "page_title": "| Microsoft Careers",
   "url": "https://apply.careers.microsoft.com/careers?domain=microsoft.com&start=0&location=United+States&sort_by=timestamp&filter_include_remote=1&filter_profession=software+engineering%2Cresearch%252C%2520applied%252C%2520%2526%2520data%2520sciences",
-  "total_jobs": 9,
+  "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 8 minutes ago",
+      "title": "Member of Technical Staff, Senior Applied AI Engineer, Image Generation\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843563?domain=microsoft.com",
+      "identifier": "Member of Technical Staff, Senior Applied AI Engin_556843563?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843532?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556843532?domain=microsoft.com"
     },
     {
-      "title": "Member of Technical Staff, Principal Tech Lead Manager, Image Generation\nUnited States, Washington, Redmond\nPosted 19 minutes ago",
+      "title": "Member of Technical Staff, Principal Tech Lead Manager, Image Generation\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843566?domain=microsoft.com",
       "identifier": "Member of Technical Staff, Principal Tech Lead Man_556843566?domain=microsoft.com"
     },
     {
-      "title": "AI Engineer II - Generative AI & Agents\nUnited States, Washington, Redmond\nPosted 28 minutes ago",
+      "title": "AI Engineer II - Generative AI & Agents\nUnited States, Washington, Redmond\nPosted 42 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834702?domain=microsoft.com",
       "identifier": "AI Engineer II - Generative AI & Agents\nUnited Sta_556834702?domain=microsoft.com"
     },
@@ -50,5 +55,5 @@
     }
   ],
   "job_count_text": "891",
-  "timestamp": "2026-03-12T18:46:35.955526"
+  "timestamp": "2026-03-12T19:01:11.303493"
 }
