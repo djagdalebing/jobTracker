@@ -4,17 +4,32 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "title": "Senior Software Engineering\nUnited States, California, Mountain View + 1 more\nPosted 8 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638360?domain=microsoft.com",
+      "identifier": "Senior Software Engineering\nUnited States, Califor_556638360?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer\nUnited States, Multiple Locations, Multiple Locations\nPosted 14 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556753141?domain=microsoft.com",
+      "identifier": "Software Engineer\nUnited States, Multiple Location_556753141?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - Office AI Platform\nUnited States, Washington, Redmond\nPosted 16 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748502?domain=microsoft.com",
+      "identifier": "Software Engineer II - Office AI Platform\nUnited S_556748502?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 26 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556826562?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556826562?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Windows Debugging\nUnited States, Washington, Redmond\nPosted 23 minutes ago",
+      "title": "Senior Software Engineer - Windows Debugging\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653252?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Windows Debugging\nUnite_556653252?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834616?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556834616?domain=microsoft.com"
     },
@@ -24,7 +39,7 @@
       "identifier": "Software Engineer II, Xbox\nUnited States, Washingt_556828152?domain=microsoft.com"
     },
     {
-      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621093?domain=microsoft.com",
       "identifier": "Senior Data Engineer\nUnited States, Washington, Re_556621093?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Multidisciplinary Manager, Industry Solutions Engineering (ISE) / Data Science\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556652525?domain=microsoft.com",
       "identifier": "Multidisciplinary Manager, Industry Solutions Engi_556652525?domain=microsoft.com"
-    },
-    {
-      "title": "Cloud Network Engineering\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828263?domain=microsoft.com",
-      "identifier": "Cloud Network Engineering\nUnited States, Washingto_556828263?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Applied Scientist\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556650846?domain=microsoft.com",
-      "identifier": "Senior Applied Scientist\nUnited States, Washington_556650846?domain=microsoft.com"
-    },
-    {
-      "title": "Applied Scientist: Microsoft AI Development Acceleration Program, Redmond\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638831?domain=microsoft.com",
-      "identifier": "Applied Scientist: Microsoft AI Development Accele_556638831?domain=microsoft.com"
     }
   ],
-  "job_count_text": "903",
-  "timestamp": "2026-03-12T22:26:21.239060"
+  "job_count_text": "906",
+  "timestamp": "2026-03-12T22:40:57.917809"
 }
