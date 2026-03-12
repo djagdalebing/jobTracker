@@ -74,6 +74,11 @@
       "identifier": "jpmc_210723432"
     },
     {
+      "title": "Sr Manager of Software Engineering",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723892/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210723892"
+    },
+    {
       "title": "Tech Forward AIML",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210720546/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210720546"
@@ -82,11 +87,6 @@
       "title": "Quant Analytics Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210722205/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210722205"
-    },
-    {
-      "title": "IP PE Sol Arch Data Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718145/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210718145"
     },
     {
       "title": "Lead Software Engineer - Python/AWS/Kafka",
@@ -102,11 +102,6 @@
       "title": "Lead Software Engineer - Java, AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210706900/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210706900"
-    },
-    {
-      "title": "UI React Software Engineer III",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210707085/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210707085"
     },
     {
       "title": "Cobol, CICS, DB2 Lead Software Engineer",
@@ -127,8 +122,13 @@
       "title": "Senior Lead Software Engineer - Databricks/Spark/AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718229/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210718229"
+    },
+    {
+      "title": "Software Engineer [Multiple Positions Available]",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719128/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210719128"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T19:17:21.431892"
+  "timestamp": "2026-03-12T19:31:56.550482"
 }
