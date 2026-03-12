@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "UI Designer - Music Creation Apps",
+      "url": "https://jobs.apple.com/en-us/details/200649647-0670/ui-designer-music-creation-apps?team=SFTWR",
+      "identifier": "UI Designer - Music Creation Apps_music-creation-apps?team=SFTWR"
+    },
     {
       "title": "Senior Computer Vision Architect",
       "url": "https://jobs.apple.com/en-us/details/200651360-3956/senior-computer-vision-architect?team=MLAI",
@@ -77,18 +82,8 @@
       "title": "Senior ML and Backend Software Engineer - Special Projects",
       "url": "https://jobs.apple.com/en-us/details/200651030-0836/senior-ml-and-backend-software-engineer-special-projects?team=SFTWR",
       "identifier": "Senior ML and Backend Software Engineer - Special _er-special-projects?team=SFTWR"
-    },
-    {
-      "title": "Metal API & Shader Instrumentation Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651271-0836/metal-api-shader-instrumentation-engineer?team=SFTWR",
-      "identifier": "Metal API & Shader Instrumentation Engineer_umentation-engineer?team=SFTWR"
-    },
-    {
-      "title": "Computational Linguist",
-      "url": "https://jobs.apple.com/en-us/details/200650142-0836/computational-linguist?team=SFTWR",
-      "identifier": "Computational Linguist_putational-linguist?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T05:03:09.817331"
+  "timestamp": "2026-03-12T05:19:02.430097"
 }
