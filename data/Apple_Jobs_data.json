@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Machine Learning Engineer, Tools and Framework AI",
+      "url": "https://jobs.apple.com/en-us/details/200648476-0836/sr-machine-learning-engineer-tools-and-framework-ai?team=SFTWR",
+      "identifier": "Sr. Machine Learning Engineer, Tools and Framework_ls-and-framework-ai?team=SFTWR"
+    },
+    {
       "title": "WebKit Developer Productivity Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651142-0836/webkit-developer-productivity-engineer?team=SFTWR",
       "identifier": "WebKit Developer Productivity Engineer_oductivity-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Data Engineer, Find My",
       "url": "https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR",
       "identifier": "Data Engineer, Find My_ta-engineer-find-my?team=SFTWR"
-    },
-    {
-      "title": "Senior Build and Release Engineer, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651339-3577/senior-build-and-release-engineer-apple-services-engineering?team=SFTWR",
-      "identifier": "Senior Build and Release Engineer, Apple Services _ervices-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T18:03:01.260635"
+  "timestamp": "2026-03-12T18:17:39.282847"
 }
