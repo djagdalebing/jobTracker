@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200649813-3956/engineering-project-manager-sales-engineering?team=SFTWR",
+      "identifier": "Engineering Project Manager, Sales Engineering_r-sales-engineering?team=SFTWR"
+    },
+    {
       "title": "Security Engineer- Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200651504-3337/security-engineer-apple-maps?team=SFTWR",
       "identifier": "Security Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior Manager, AI Data Operations",
       "url": "https://jobs.apple.com/en-us/details/200650419-0157/senior-manager-ai-data-operations?team=SFTWR",
       "identifier": "Senior Manager, AI Data Operations_-ai-data-operations?team=SFTWR"
-    },
-    {
-      "title": "Pre-silicon ML and Compute Framework Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
-      "identifier": "Pre-silicon ML and Compute Framework Engineer_-framework-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T21:42:46.422214"
+  "timestamp": "2026-03-12T21:57:25.063938"
 }
