@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Sr. Software Development Engineer - Data, Siri Speech",
+      "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-development-engineer-data-siri-speech?team=SFTWR",
+      "identifier": "Sr. Software Development Engineer - Data, Siri Spe_er-data-siri-speech?team=SFTWR"
+    },
+    {
       "title": "Engineering Program Manager, App Store Regulatory, Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651222-0836/engineering-program-manager-app-store-regulatory-apple-services-engineering?team=SFTWR",
       "identifier": "Engineering Program Manager, App Store Regulatory,_ervices-engineering?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200651121-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Machine Learning Engineer - Strategic Data Solutions",
-      "url": "https://jobs.apple.com/en-us/details/200651501-0157/machine-learning-engineer-strategic-data-solutions?team=SFTWR",
-      "identifier": "Machine Learning Engineer - Strategic Data Solutio_egic-data-solutions?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T23:00:54.876264"
+  "timestamp": "2026-03-12T23:15:27.248394"
 }
