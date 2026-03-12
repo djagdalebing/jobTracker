@@ -4,6 +4,21 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Security Engineer- Apple Maps",
+      "url": "https://jobs.apple.com/en-us/details/200651504-3337/security-engineer-apple-maps?team=SFTWR",
+      "identifier": "Security Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Apple Cloud Products - iCloud Backup",
+      "url": "https://jobs.apple.com/en-us/details/200651505-0836/senior-software-engineer-apple-cloud-products-icloud-backup?team=SFTWR",
+      "identifier": "Senior Software Engineer - Apple Cloud Products - _ducts-icloud-backup?team=SFTWR"
+    },
+    {
+      "title": "Sr. Software Engineer - Family Services- iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200651517-3543/sr-software-engineer-family-services-icloud?team=SFTWR",
+      "identifier": "Sr. Software Engineer - Family Services- iCloud_ily-services-icloud?team=SFTWR"
+    },
+    {
       "title": "Supplier Operations Analyst, Infrastructure Services",
       "url": "https://jobs.apple.com/en-us/details/200650880-0157/supplier-operations-analyst-infrastructure-services?team=SFTWR",
       "identifier": "Supplier Operations Analyst, Infrastructure Servic_astructure-services?team=SFTWR"
@@ -67,23 +82,8 @@
       "title": "Pre-silicon ML and Compute Framework Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
       "identifier": "Pre-silicon ML and Compute Framework Engineer_-framework-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - Ads Auction",
-      "url": "https://jobs.apple.com/en-us/details/200651407-0836/senior-machine-learning-engineer-ads-auction?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer - Ads Auction_ngineer-ads-auction?team=SFTWR"
-    },
-    {
-      "title": "Senior Media Applications Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer?team=SFTWR",
-      "identifier": "Senior Media Applications Engineer_plications-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Transparency - iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651276-0836/senior-software-engineer-transparency-icloud?team=SFTWR",
-      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T21:28:09.861779"
+  "timestamp": "2026-03-12T21:42:46.422214"
 }

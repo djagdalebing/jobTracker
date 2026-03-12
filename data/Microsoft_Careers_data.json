@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "Software Engineer II, Xbox\nUnited States, Washington, Redmond\nPosted 15 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828152?domain=microsoft.com",
+      "identifier": "Software Engineer II, Xbox\nUnited States, Washingt_556828152?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Data Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556621093?domain=microsoft.com",
       "identifier": "Senior Data Engineer\nUnited States, Washington, Re_556621093?domain=microsoft.com"
     },
@@ -39,21 +44,16 @@
       "identifier": "Software Engineer II: Microsoft AI Development Acc_556643535?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 2 hours ago",
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Virginia, Reston + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752822?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, V_556752822?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 2 hours ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 2 more\nPosted 3 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752819?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556752819?domain=microsoft.com"
-    },
-    {
-      "title": "Member of Technical Staff, Senior Applied AI Engineer, Image Generation\nUnited States, Washington, Redmond\nPosted 3 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843563?domain=microsoft.com",
-      "identifier": "Member of Technical Staff, Senior Applied AI Engin_556843563?domain=microsoft.com"
     }
   ],
-  "job_count_text": "899",
-  "timestamp": "2026-03-12T21:27:53.831712"
+  "job_count_text": "900",
+  "timestamp": "2026-03-12T21:42:29.782118"
 }
