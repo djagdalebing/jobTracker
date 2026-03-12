@@ -4,7 +4,12 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 minutes ago",
+      "title": "AI Engineer II - Generative AI & Agents\nUnited States, Washington, Redmond\nPosted 13 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834702?domain=microsoft.com",
+      "identifier": "AI Engineer II - Generative AI & Agents\nUnited Sta_556834702?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 33 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556803993?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556803993?domain=microsoft.com"
     },
@@ -42,13 +47,8 @@
       "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 18 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556837672?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556837672?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 20 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556619823?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556619823?domain=microsoft.com"
     }
   ],
   "job_count_text": "891",
-  "timestamp": "2026-03-12T18:17:22.522553"
+  "timestamp": "2026-03-12T18:32:00.800124"
 }
