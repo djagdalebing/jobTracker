@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 17,
   "jobs": [
+    {
+      "title": "Software Engineer (Data)",
+      "url": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR",
+      "identifier": "Software Engineer (Data)_tware-engineer-data?team=SFTWR"
+    },
+    {
+      "title": "Senior Machine Learning Engineer - Tools & Frameworks AI",
+      "url": "https://jobs.apple.com/en-us/details/200641250-0836/senior-machine-learning-engineer-tools-frameworks-ai?team=SFTWR",
+      "identifier": "Senior Machine Learning Engineer - Tools & Framewo_tools-frameworks-ai?team=SFTWR"
+    },
     {
       "title": "Engineering Project Manager, Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200649813-3956/engineering-project-manager-sales-engineering?team=SFTWR",
@@ -77,13 +87,8 @@
       "title": "Manager, Engineering Program Management - Strategic Data Solutions",
       "url": "https://jobs.apple.com/en-us/details/200650865-0157/manager-engineering-program-management-strategic-data-solutions?team=SFTWR",
       "identifier": "Manager, Engineering Program Management - Strategi_egic-data-solutions?team=SFTWR"
-    },
-    {
-      "title": "Senior Manager, AI Data Operations",
-      "url": "https://jobs.apple.com/en-us/details/200650419-0157/senior-manager-ai-data-operations?team=SFTWR",
-      "identifier": "Senior Manager, AI Data Operations_-ai-data-operations?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T21:57:25.063938"
+  "timestamp": "2026-03-12T22:12:00.289767"
 }
