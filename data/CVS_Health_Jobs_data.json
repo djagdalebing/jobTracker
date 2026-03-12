@@ -9,11 +9,6 @@
       "identifier": "Machine Learning Engineer_2628/Machine-Learning-Engineer"
     },
     {
-      "title": "Sr Strategic Advisor - Workforce Planning",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0810161/Sr-Strategic-Advisor-Workforce-Planning",
-      "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
-    },
-    {
       "title": "Sr Analyst, Stars Analytics",
       "url": "https://jobs.cvshealth.com/us/en/job/R0816694/Sr-Analyst-Stars-Analytics",
       "identifier": "Sr Analyst, Stars Analytics_694/Sr-Analyst-Stars-Analytics"
@@ -29,9 +24,9 @@
       "identifier": "Data Scientist \u2013 Retail Analytics_ata-Scientist-Retail-Analytics"
     },
     {
-      "title": "Sr. Data Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0841216/Sr-Data-Engineer",
-      "identifier": "Sr. Data Engineer_/job/R0841216/Sr-Data-Engineer"
+      "title": "Sr Strategic Advisor - Workforce Planning",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0810161/Sr-Strategic-Advisor-Workforce-Planning",
+      "identifier": "Sr Strategic Advisor - Workforce Planning_gic-Advisor-Workforce-Planning"
     },
     {
       "title": "Senior Data Engineering Manager",
@@ -42,8 +37,13 @@
       "title": "Data Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0841914/Data-Engineer",
       "identifier": "Data Engineer_/en/job/R0841914/Data-Engineer"
+    },
+    {
+      "title": "Sr. Data Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0841216/Sr-Data-Engineer",
+      "identifier": "Sr. Data Engineer_/job/R0841216/Sr-Data-Engineer"
     }
   ],
   "job_count_text": "37",
-  "timestamp": "2026-03-12T12:27:22.672253"
+  "timestamp": "2026-03-12T12:43:19.362255"
 }
