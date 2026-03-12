@@ -9,11 +9,6 @@
       "identifier": "Supplier Operations Analyst, Infrastructure Servic_astructure-services?team=SFTWR"
     },
     {
-      "title": "Engineering Project Manager, Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200649813-3401/engineering-project-manager-sales-engineering?team=SFTWR",
-      "identifier": "Engineering Project Manager, Sales Engineering_r-sales-engineering?team=SFTWR"
-    },
-    {
       "title": "Business Systems Analyst (SAP PMO), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200651129-3401/business-systems-analyst-sap-pmo-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Business Systems Analyst (SAP PMO), IS&T Enterpris_-enterprise-systems?team=SFTWR"
@@ -82,8 +77,13 @@
       "title": "Senior Media Applications Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651342-3543/senior-media-applications-engineer?team=SFTWR",
       "identifier": "Senior Media Applications Engineer_plications-engineer?team=SFTWR"
+    },
+    {
+      "title": "Senior Software Engineer - Transparency - iCloud",
+      "url": "https://jobs.apple.com/en-us/details/200651276-0836/senior-software-engineer-transparency-icloud?team=SFTWR",
+      "identifier": "Senior Software Engineer - Transparency - iCloud_transparency-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T21:13:15.077638"
+  "timestamp": "2026-03-12T21:28:09.861779"
 }
