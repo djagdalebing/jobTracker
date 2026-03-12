@@ -4,6 +4,16 @@
   "total_jobs": 18,
   "jobs": [
     {
+      "title": "Software Engineer - Data",
+      "url": "https://jobs.apple.com/en-us/details/200651243-3543/software-engineer-data?team=SFTWR",
+      "identifier": "Software Engineer - Data_tware-engineer-data?team=SFTWR"
+    },
+    {
+      "title": "Sr Machine Learning Manager, Intelligent System Experience",
+      "url": "https://jobs.apple.com/en-us/details/200635998-3401/sr-machine-learning-manager-intelligent-system-experience?team=SFTWR",
+      "identifier": "Sr Machine Learning Manager, Intelligent System Ex_t-system-experience?team=SFTWR"
+    },
+    {
       "title": "Data Engineer, Find My",
       "url": "https://jobs.apple.com/en-us/details/200651281-0836/data-engineer-find-my?team=SFTWR",
       "identifier": "Data Engineer, Find My_ta-engineer-find-my?team=SFTWR"
@@ -82,18 +92,8 @@
       "title": "Sr Engineering Manager, Finance Data Engineering & AI Enablement",
       "url": "https://jobs.apple.com/en-us/details/200651089-3956/sr-engineering-manager-finance-data-engineering-ai-enablement?team=SFTWR",
       "identifier": "Sr Engineering Manager, Finance Data Engineering &_ering-ai-enablement?team=SFTWR"
-    },
-    {
-      "title": "Data Engineering Manager, Finance Data & AI Foundation",
-      "url": "https://jobs.apple.com/en-us/details/200651090-3956/data-engineering-manager-finance-data-ai-foundation?team=SFTWR",
-      "identifier": "Data Engineering Manager, Finance Data & AI Founda_-data-ai-foundation?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Early Career (Backend/Data)",
-      "url": "https://jobs.apple.com/en-us/details/200651247-2459/software-engineer-early-career-backend-data?team=SFTWR",
-      "identifier": "Software Engineer - Early Career (Backend/Data)_career-backend-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T01:04:33.414679"
+  "timestamp": "2026-03-12T01:20:28.901785"
 }
