@@ -4,6 +4,11 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Production Engineer (University Grad)\nSunnyvale, CA +5 locations\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nProduction Engineering\nMultiple Locations\nUniversity Grad - Engineering, Tech & Design",
+      "url": "https://www.metacareers.com/profile/job_details/2195853397605728",
+      "identifier": "Production Engineer (University Grad)\nSunnyvale, C_e/job_details/2195853397605728"
+    },
+    {
       "title": "Network Production Engineer (University Grad)\nDublin, Ireland +1 locations\n\u22c5\nUniversity Grad - Engineering, Tech & Design +3 more\n\u22c5\nNetwork Engineering +2 more\nMultiple Locations\nUniversity Grad - Eng",
       "url": "https://www.metacareers.com/profile/job_details/1800634223938239",
       "identifier": "Network Production Engineer (University Grad)\nDubl_e/job_details/1800634223938239"
@@ -12,11 +17,6 @@
       "title": "Production Engineer (University Grad)\nDublin, Ireland +1 locations\n\u22c5\nInfrastructure +1 more\n\u22c5\nEngineering +1 more\nMultiple Locations\nInfrastructure\nUniversity Grad - Engineering, Tech & Design\nEnginee",
       "url": "https://www.metacareers.com/profile/job_details/1303824955124384",
       "identifier": "Production Engineer (University Grad)\nDublin, Irel_e/job_details/1303824955124384"
-    },
-    {
-      "title": "Production Engineer (University Grad)\nSunnyvale, CA +5 locations\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nProduction Engineering\nMultiple Locations\nUniversity Grad - Engineering, Tech & Design",
-      "url": "https://www.metacareers.com/profile/job_details/2195853397605728",
-      "identifier": "Production Engineer (University Grad)\nSunnyvale, C_e/job_details/2195853397605728"
     },
     {
       "title": "Network Production Engineer (University Grad)\nMenlo Park, CA\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nNetwork Engineering\nMenlo Park, CA\nUniversity Grad - Engineering, Tech & Design\nNetwork En",
@@ -40,5 +40,5 @@
     }
   ],
   "job_count_text": "1",
-  "timestamp": "2026-03-13T05:53:43.789294"
+  "timestamp": "2026-03-13T06:08:13.050176"
 }
