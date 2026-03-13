@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Manager - Customer Feedback EPMs",
+      "url": "https://jobs.apple.com/en-us/details/200650500-3543/manager-customer-feedback-epms?team=SFTWR",
+      "identifier": "Manager - Customer Feedback EPMs_tomer-feedback-epms?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager, Build and Release",
       "url": "https://jobs.apple.com/en-us/details/200651540-0157/engineering-project-manager-build-and-release?team=SFTWR",
       "identifier": "Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Senior Software Engineer - Apple Cloud Products - iCloud Backup",
       "url": "https://jobs.apple.com/en-us/details/200651505-0836/senior-software-engineer-apple-cloud-products-icloud-backup?team=SFTWR",
       "identifier": "Senior Software Engineer - Apple Cloud Products - _ducts-icloud-backup?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Engineer - Family Services- iCloud",
-      "url": "https://jobs.apple.com/en-us/details/200651517-3543/sr-software-engineer-family-services-icloud?team=SFTWR",
-      "identifier": "Sr. Software Engineer - Family Services- iCloud_ily-services-icloud?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T00:13:44.347290"
+  "timestamp": "2026-03-13T00:28:17.732792"
 }
