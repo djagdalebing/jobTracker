@@ -4,32 +4,37 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 14 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 3 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556641785?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556641785?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 29 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847443?domain=microsoft.com",
       "identifier": "Software Engineer, Sustainability\nUnited States, W_556847443?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 24 minutes ago",
+      "title": "Senior Software Engineer - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556654030?domain=microsoft.com",
       "identifier": "Senior Software Engineer - CTJ - Poly\nUnited State_556654030?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 31 minutes ago",
+      "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843662?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556843662?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 38 minutes ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749467?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556749467?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 40 minutes ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653603?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556653603?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer (C++) - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 44 minutes ago",
+      "title": "Senior Software Engineer (C++) - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843568?domain=microsoft.com",
       "identifier": "Senior Software Engineer (C++) - CTJ - Poly\nUnited_556843568?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Principal Applied Scientist (CoreAI)\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556836404?domain=microsoft.com",
       "identifier": "Principal Applied Scientist (CoreAI)\nUnited States_556836404?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556638936?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556638936?domain=microsoft.com"
     }
   ],
-  "job_count_text": "890",
-  "timestamp": "2026-03-13T18:11:26.612298"
+  "job_count_text": "889",
+  "timestamp": "2026-03-13T18:26:04.915556"
 }
