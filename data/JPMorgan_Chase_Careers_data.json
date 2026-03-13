@@ -64,6 +64,11 @@
       "identifier": "jpmc_210719130"
     },
     {
+      "title": "Software Engineer III - LLM",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719158/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
+      "identifier": "jpmc_210719158"
+    },
+    {
       "title": "Manager of Software Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210719203/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210719203"
@@ -114,11 +119,6 @@
       "identifier": "jpmc_210722170"
     },
     {
-      "title": "Applied AI/ML - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210723806/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
-      "identifier": "jpmc_210723806"
-    },
-    {
       "title": "Sr Director of Software Engineering - Data",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210675534/?lastSelectedFacet=CATEGORIES&locationId=300000000289738&selectedCategoriesFacet=300000086152753%3B300000086152508%3B300000086144003%3B300026872751628%3B300000086249595",
       "identifier": "jpmc_210675534"
@@ -130,5 +130,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T20:10:07.035877"
+  "timestamp": "2026-03-13T20:24:44.669115"
 }
