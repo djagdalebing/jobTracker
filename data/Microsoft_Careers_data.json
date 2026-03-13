@@ -4,7 +4,12 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 34 minutes ago",
+      "title": "Applied Scientist\nUnited States, Washington, Redmond\nPosted 22 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556755003?domain=microsoft.com",
+      "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556755003?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556802872?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556802872?domain=microsoft.com"
     },
@@ -24,12 +29,12 @@
       "identifier": "Software Engineering IC5\nUnited States, Washington_556825135?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556823713?domain=microsoft.com",
       "identifier": "Principal Software Engineer - Backend\nUnited State_556823713?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556834709?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556834709?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer II - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748996?domain=microsoft.com",
       "identifier": "Software Engineer II - CTJ - Poly\nUnited States, W_556748996?domain=microsoft.com"
-    },
-    {
-      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748744?domain=microsoft.com",
-      "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556748744?domain=microsoft.com"
     }
   ],
-  "job_count_text": "896",
-  "timestamp": "2026-03-13T21:26:26.796731"
+  "job_count_text": "897",
+  "timestamp": "2026-03-13T21:40:58.307919"
 }

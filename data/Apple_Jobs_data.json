@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 17,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Siri Triage Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651731-0836/siri-triage-engineer?team=SFTWR",
+      "identifier": "Siri Triage Engineer_iri-triage-engineer?team=SFTWR"
+    },
     {
       "title": "Manager, Data Quality & Evaluation - AIML Data Ops",
       "url": "https://jobs.apple.com/en-us/details/200651198-0836/manager-data-quality-evaluation-aiml-data-ops?team=SFTWR",
@@ -77,18 +82,8 @@
       "title": "Engineering Project Manager, Build and Release",
       "url": "https://jobs.apple.com/en-us/details/200651540-0157/engineering-project-manager-build-and-release?team=SFTWR",
       "identifier": "Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
-    },
-    {
-      "title": "Junior UI Compositing Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?team=SFTWR",
-      "identifier": "Junior UI Compositing Engineer_ompositing-engineer?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
-      "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T21:26:42.932756"
+  "timestamp": "2026-03-13T21:41:14.688613"
 }
