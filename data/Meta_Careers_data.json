@@ -4,6 +4,11 @@
   "total_jobs": 7,
   "jobs": [
     {
+      "title": "Network Production Engineer (University Grad)\nMenlo Park, CA\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nNetwork Engineering\nMenlo Park, CA\nUniversity Grad - Engineering, Tech & Design\nNetwork En",
+      "url": "https://www.metacareers.com/profile/job_details/5249968738560587",
+      "identifier": "Network Production Engineer (University Grad)\nMenl_e/job_details/5249968738560587"
+    },
+    {
       "title": "Production Engineer (University Grad)\nSunnyvale, CA +5 locations\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nProduction Engineering\nMultiple Locations\nUniversity Grad - Engineering, Tech & Design",
       "url": "https://www.metacareers.com/profile/job_details/2195853397605728",
       "identifier": "Production Engineer (University Grad)\nSunnyvale, C_e/job_details/2195853397605728"
@@ -17,11 +22,6 @@
       "title": "Production Engineer (University Grad)\nDublin, Ireland +1 locations\n\u22c5\nInfrastructure +1 more\n\u22c5\nEngineering +1 more\nMultiple Locations\nInfrastructure\nUniversity Grad - Engineering, Tech & Design\nEnginee",
       "url": "https://www.metacareers.com/profile/job_details/1303824955124384",
       "identifier": "Production Engineer (University Grad)\nDublin, Irel_e/job_details/1303824955124384"
-    },
-    {
-      "title": "Network Production Engineer (University Grad)\nMenlo Park, CA\n\u22c5\nUniversity Grad - Engineering, Tech & Design\n\u22c5\nNetwork Engineering\nMenlo Park, CA\nUniversity Grad - Engineering, Tech & Design\nNetwork En",
-      "url": "https://www.metacareers.com/profile/job_details/5249968738560587",
-      "identifier": "Network Production Engineer (University Grad)\nMenl_e/job_details/5249968738560587"
     },
     {
       "title": "EMC Design Engineer (University Grad)\nRedmond, WA\n\u22c5\nAR/VR +2 more\n\u22c5\nHardware\nRedmond, WA\nAR/VR\nFacebook Reality Labs\nUniversity Grad - Engineering, Tech & Design\nHardware",
@@ -40,5 +40,5 @@
     }
   ],
   "job_count_text": "1",
-  "timestamp": "2026-03-13T17:13:16.246832"
+  "timestamp": "2026-03-13T17:27:54.680775"
 }
