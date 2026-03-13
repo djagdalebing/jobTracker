@@ -4,9 +4,24 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 18 hours ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
+      "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/40774838",
+      "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
+    },
+    {
+      "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 18 hours ago",
+      "url": "https://careers.micron.com/careers/job/40774903",
+      "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
     },
     {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -37,23 +52,8 @@
       "title": "New College Grad - Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40367274",
       "identifier": "New College Grad - Process Engineer ID1\nBoise, Ida_icron.com/careers/job/40367274"
-    },
-    {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40777576",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/40777576"
-    },
-    {
-      "title": "Workforce Development Specialist, TPG\nLongmont, Colorado, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40777706",
-      "identifier": "Workforce Development Specialist, TPG\nLongmont, Co_icron.com/careers/job/40777706"
-    },
-    {
-      "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40644916",
-      "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
     }
   ],
-  "job_count_text": "65",
-  "timestamp": "2026-03-13T17:59:36.323511"
+  "job_count_text": "66",
+  "timestamp": "2026-03-13T18:14:13.107048"
 }

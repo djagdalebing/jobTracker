@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Software Engineer - Distributed Systems, Compute Platform",
+      "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
+      "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
+    },
+    {
       "title": "Backend Services Software Engineer - Release Validation",
       "url": "https://jobs.apple.com/en-us/details/200651668-3543/backend-services-software-engineer-release-validation?team=SFTWR",
       "identifier": "Backend Services Software Engineer - Release Valid_-release-validation?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Pre-silicon ML and Compute Framework Engineer",
       "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
       "identifier": "Pre-silicon ML and Compute Framework Engineer_-framework-engineer?team=SFTWR"
-    },
-    {
-      "title": "Software QA Engineer, Security",
-      "url": "https://jobs.apple.com/en-us/details/200651542-0836/software-qa-engineer-security?team=SFTWR",
-      "identifier": "Software QA Engineer, Security_a-engineer-security?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T17:57:04.918724"
+  "timestamp": "2026-03-13T18:11:43.437908"
 }
