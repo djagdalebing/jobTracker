@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Engineering Project Manager, Build and Release",
+      "url": "https://jobs.apple.com/en-us/details/200651540-0157/engineering-project-manager-build-and-release?team=SFTWR",
+      "identifier": "Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
+    },
+    {
       "title": "Junior UI Compositing Engineer",
       "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?team=SFTWR",
       "identifier": "Junior UI Compositing Engineer_ompositing-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Sr. Software Engineer - Family Services- iCloud",
       "url": "https://jobs.apple.com/en-us/details/200651517-3543/sr-software-engineer-family-services-icloud?team=SFTWR",
       "identifier": "Sr. Software Engineer - Family Services- iCloud_ily-services-icloud?team=SFTWR"
-    },
-    {
-      "title": "Supplier Operations Analyst, Infrastructure Services",
-      "url": "https://jobs.apple.com/en-us/details/200650880-0157/supplier-operations-analyst-infrastructure-services?team=SFTWR",
-      "identifier": "Supplier Operations Analyst, Infrastructure Servic_astructure-services?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-12T23:44:35.981192"
+  "timestamp": "2026-03-12T23:59:10.060218"
 }
