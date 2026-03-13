@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200649928-3401/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer (Data)",
       "url": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR",
       "identifier": "Software Engineer (Data)_tware-engineer-data?team=SFTWR"
-    },
-    {
-      "title": "Senior Machine Learning Engineer - Tools & Frameworks AI",
-      "url": "https://jobs.apple.com/en-us/details/200641250-0836/senior-machine-learning-engineer-tools-frameworks-ai?team=SFTWR",
-      "identifier": "Senior Machine Learning Engineer - Tools & Framewo_tools-frameworks-ai?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T03:23:02.222990"
+  "timestamp": "2026-03-13T03:37:35.422321"
 }
