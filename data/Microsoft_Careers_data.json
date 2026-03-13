@@ -4,14 +4,14 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Principal Software Engineer, CoreAI\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted an hour ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828174?domain=microsoft.com",
-      "identifier": "Principal Software Engineer, CoreAI\nUnited States,_556828174?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer, CoreAI\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted an hour ago",
+      "title": "Senior Software Engineer, CoreAI\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556828176?domain=microsoft.com",
       "identifier": "Senior Software Engineer, CoreAI\nUnited States, Mu_556828176?domain=microsoft.com"
+    },
+    {
+      "title": "Principal Software Engineer, CoreAI\nUnited States, Multiple Locations, Multiple Locations + 5 more\nPosted 2 hours ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556828174?domain=microsoft.com",
+      "identifier": "Principal Software Engineer, CoreAI\nUnited States,_556828174?domain=microsoft.com"
     },
     {
       "title": "Member of Technical Staff - AI Product - Build Engineer\nUnited States, California, Mountain View\nPosted 15 hours ago",
@@ -49,6 +49,6 @@
       "identifier": "Senior Software Engineering\nUnited States, Califor_556638360?domain=microsoft.com"
     }
   ],
-  "job_count_text": "880",
-  "timestamp": "2026-03-13T15:44:46.165836"
+  "job_count_text": "879",
+  "timestamp": "2026-03-13T15:59:28.852881"
 }

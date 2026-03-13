@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Data Science Analyst I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
-      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
-    },
-    {
       "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
       "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
       "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
+    },
+    {
+      "title": "Data Science Analyst I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
+      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "30",
-  "timestamp": "2026-03-13T15:46:00.975036"
+  "timestamp": "2026-03-13T16:00:43.197022"
 }
