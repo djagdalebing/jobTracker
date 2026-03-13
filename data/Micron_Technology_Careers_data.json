@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/39688071",
+      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
       "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 20 hours ago",
       "url": "https://careers.micron.com/careers/job/40774838",
       "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
@@ -29,16 +39,6 @@
       "identifier": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho_icron.com/careers/job/40836562"
     },
     {
-      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/39688083",
-      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
-    },
-    {
-      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 20 hours ago",
-      "url": "https://careers.micron.com/careers/job/39688071",
-      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
-    },
-    {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/38368336",
       "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "67",
-  "timestamp": "2026-03-13T19:56:44.439484"
+  "timestamp": "2026-03-13T20:11:24.171189"
 }
