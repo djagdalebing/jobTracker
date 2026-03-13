@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 16,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Automation and Design Test Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651667-3401/automation-and-design-test-engineer?team=SFTWR",
+      "identifier": "Automation and Design Test Engineer_esign-test-engineer?team=SFTWR"
+    },
     {
       "title": "Siri Triage Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651731-0836/siri-triage-engineer?team=SFTWR",
@@ -72,18 +77,8 @@
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Manager - Customer Feedback EPMs",
-      "url": "https://jobs.apple.com/en-us/details/200650500-3543/manager-customer-feedback-epms?team=SFTWR",
-      "identifier": "Manager - Customer Feedback EPMs_tomer-feedback-epms?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Build and Release",
-      "url": "https://jobs.apple.com/en-us/details/200651540-0157/engineering-project-manager-build-and-release?team=SFTWR",
-      "identifier": "Engineering Project Manager, Build and Release_r-build-and-release?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T22:24:55.452865"
+  "timestamp": "2026-03-13T22:41:36.700912"
 }
