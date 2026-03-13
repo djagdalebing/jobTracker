@@ -4,14 +4,14 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/39688071",
-      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
-    },
-    {
       "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/39688083",
       "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
+      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/39688071",
+      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
     },
     {
       "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
@@ -19,19 +19,24 @@
       "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
     },
     {
+      "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/40774843",
+      "identifier": "Equipment Engineer\nBoise, Idaho, United States of _icron.com/careers/job/40774843"
+    },
+    {
       "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/40774903",
       "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
     },
     {
+      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/40776642",
+      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/40776642"
+    },
+    {
       "title": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/40836562",
       "identifier": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho_icron.com/careers/job/40836562"
-    },
-    {
-      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40776642",
-      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/40776642"
     },
     {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -47,13 +52,8 @@
       "title": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho, United States of America\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40644916",
       "identifier": "Engineer, DEG Technology Node DEV PE\nBoise, Idaho,_icron.com/careers/job/40644916"
-    },
-    {
-      "title": "Product Development Engineer\nBoise, Idaho, United States of America\nPosted 3 days ago",
-      "url": "https://careers.micron.com/careers/job/40777576",
-      "identifier": "Product Development Engineer\nBoise, Idaho, United _icron.com/careers/job/40777576"
     }
   ],
   "job_count_text": "67",
-  "timestamp": "2026-03-13T19:12:47.162658"
+  "timestamp": "2026-03-13T19:27:26.013021"
 }

@@ -4,6 +4,16 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Sr Software Engineer (Java & Ai), Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200650996-3956/sr-software-engineer-java-ai-sales-engineering?team=SFTWR",
+      "identifier": "Sr Software Engineer (Java & Ai), Sales Engineerin_i-sales-engineering?team=SFTWR"
+    },
+    {
+      "title": "Engineering Project Manager (SAP Org Change Management Project Lead), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200651361-3401/engineering-project-manager-sap-org-change-management-project-lead-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP Org Change Manage_-enterprise-systems?team=SFTWR"
+    },
+    {
       "title": "Software Engineer - Distributed Systems, Compute Platform",
       "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
       "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
@@ -77,18 +87,8 @@
       "title": "Sr. Software Development Engineer - Data, Siri Speech",
       "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-development-engineer-data-siri-speech?team=SFTWR",
       "identifier": "Sr. Software Development Engineer - Data, Siri Spe_er-data-siri-speech?team=SFTWR"
-    },
-    {
-      "title": "Engineering Program Manager, App Store Regulatory, Apple Services Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651222-0836/engineering-program-manager-app-store-regulatory-apple-services-engineering?team=SFTWR",
-      "identifier": "Engineering Program Manager, App Store Regulatory,_ervices-engineering?team=SFTWR"
-    },
-    {
-      "title": "Pre-silicon ML and Compute Framework Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200649147-0836/pre-silicon-ml-and-compute-framework-engineer?team=SFTWR",
-      "identifier": "Pre-silicon ML and Compute Framework Engineer_-framework-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T19:10:17.783687"
+  "timestamp": "2026-03-13T19:24:54.788210"
 }
