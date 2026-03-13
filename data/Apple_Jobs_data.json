@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651348-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
+    },
+    {
       "title": "Senior End to End Performance Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
       "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Engineering Project Manager, Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200649813-3956/engineering-project-manager-sales-engineering?team=SFTWR",
       "identifier": "Engineering Project Manager, Sales Engineering_r-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Security Engineer- Apple Maps",
-      "url": "https://jobs.apple.com/en-us/details/200651504-3337/security-engineer-apple-maps?team=SFTWR",
-      "identifier": "Security Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T02:10:14.372723"
+  "timestamp": "2026-03-13T02:24:47.653535"
 }
