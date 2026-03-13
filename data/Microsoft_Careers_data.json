@@ -4,7 +4,22 @@
   "total_jobs": 9,
   "jobs": [
     {
-      "title": "Software Engineer II- Native\nUnited States, Washington, Redmond\nPosted 24 minutes ago",
+      "title": "Software Engineering II\nUnited States, Washington, Redmond\nPosted 5 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556631992?domain=microsoft.com",
+      "identifier": "Software Engineering II\nUnited States, Washington,_556631992?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556815539?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556815539?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II- Native\nUnited States, Washington, Redmond\nPosted 38 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629461?domain=microsoft.com",
       "identifier": "Software Engineer II- Native\nUnited States, Washin_556629461?domain=microsoft.com"
     },
@@ -14,7 +29,7 @@
       "identifier": "Applied Scientist\nUnited States, Washington, Redmo_556755003?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556802872?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556802872?domain=microsoft.com"
     },
@@ -32,23 +47,8 @@
       "title": "Software Engineering IC5\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556825135?domain=microsoft.com",
       "identifier": "Software Engineering IC5\nUnited States, Washington_556825135?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer - Backend\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556823713?domain=microsoft.com",
-      "identifier": "Principal Software Engineer - Backend\nUnited State_556823713?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556834709?domain=microsoft.com",
-      "identifier": "Senior Software Engineer\nUnited States, Washington_556834709?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556820668?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556820668?domain=microsoft.com"
     }
   ],
-  "job_count_text": "899",
-  "timestamp": "2026-03-13T22:10:06.753130"
+  "job_count_text": "902",
+  "timestamp": "2026-03-13T22:24:38.889357"
 }
