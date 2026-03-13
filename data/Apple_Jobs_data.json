@@ -4,6 +4,11 @@
   "total_jobs": 17,
   "jobs": [
     {
+      "title": "Manager, Data Quality & Evaluation - AIML Data Ops",
+      "url": "https://jobs.apple.com/en-us/details/200651198-0836/manager-data-quality-evaluation-aiml-data-ops?team=SFTWR",
+      "identifier": "Manager, Data Quality & Evaluation - AIML Data Ops_ation-aiml-data-ops?team=SFTWR"
+    },
+    {
       "title": "Sr Software Engineer (Apps & Ai), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200650996-3956/sr-software-engineer-apps-ai-sales-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer (Apps & Ai), Sales Engineerin_i-sales-engineering?team=SFTWR"
@@ -82,13 +87,8 @@
       "title": "Engineering Program Manager, Customer Systems",
       "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
       "identifier": "Engineering Program Manager, Customer Systems_er-customer-systems?team=SFTWR"
-    },
-    {
-      "title": "Sr. Software Development Engineer - Data, Siri Speech",
-      "url": "https://jobs.apple.com/en-us/details/200651524-1242/sr-software-development-engineer-data-siri-speech?team=SFTWR",
-      "identifier": "Sr. Software Development Engineer - Data, Siri Spe_er-data-siri-speech?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T20:28:33.835276"
+  "timestamp": "2026-03-13T20:43:07.217548"
 }
