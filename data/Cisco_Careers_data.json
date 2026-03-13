@@ -4,6 +4,16 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Data Science Analyst I (Full Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
+      "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
+    },
+    {
+      "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
+      "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
+      "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
+    },
+    {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2003091/Sales-Development-Representative-Outbound-Sales-II-Full-Time-United-States",
       "identifier": "Sales Development Representative Outbound Sales II_les-II-Full-Time-United-States"
@@ -42,18 +52,8 @@
       "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
       "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
       "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software QA Engineer II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2002838/Software-QA-Engineer-II-Full-Time-United-States",
-      "identifier": "Software QA Engineer II (Full Time) \u2013 United State_eer-II-Full-Time-United-States"
-    },
-    {
-      "title": "Software Engineer I (Full Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2007003/Software-Engineer-I-Full-Time-United-States",
-      "identifier": "Software Engineer I (Full Time) - United States_neer-I-Full-Time-United-States"
     }
   ],
-  "job_count_text": "28",
-  "timestamp": "2026-03-13T15:31:23.396826"
+  "job_count_text": "30",
+  "timestamp": "2026-03-13T15:46:00.975036"
 }
