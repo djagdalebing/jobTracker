@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/40774838",
+      "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
+    },
+    {
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
@@ -12,11 +17,6 @@
       "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39688083",
       "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
-    },
-    {
-      "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/40774838",
-      "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
     },
     {
       "title": "Equipment Engineer\nBoise, Idaho, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-13T22:44:03.520742"
+  "timestamp": "2026-03-13T22:58:33.702754"
 }
