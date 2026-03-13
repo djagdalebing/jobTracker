@@ -4,12 +4,17 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 18 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 11 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752730?domain=microsoft.com",
+      "identifier": "Senior Software Engineer\nUnited States, California_556752730?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 32 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641785?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556641785?domain=microsoft.com"
     },
     {
-      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted 43 minutes ago",
+      "title": "Software Engineer, Sustainability\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556847443?domain=microsoft.com",
       "identifier": "Software Engineer, Sustainability\nUnited States, W_556847443?domain=microsoft.com"
     },
@@ -39,7 +44,7 @@
       "identifier": "Senior Software Engineer (C++) - CTJ - Poly\nUnited_556843568?domain=microsoft.com"
     },
     {
-      "title": "Sr. Software Engineer - Storage Fundamentals\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Sr. Software Engineer - Storage Fundamentals\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752731?domain=microsoft.com",
       "identifier": "Sr. Software Engineer - Storage Fundamentals\nUnite_556752731?domain=microsoft.com"
     },
@@ -47,13 +52,8 @@
       "title": "Software Engineer: Microsoft AI Development Acceleration Program, Cambridge\nUnited States, Massachusetts, Cambridge\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556629490?domain=microsoft.com",
       "identifier": "Software Engineer: Microsoft AI Development Accele_556629490?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Applied Scientist (CoreAI)\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556836404?domain=microsoft.com",
-      "identifier": "Principal Applied Scientist (CoreAI)\nUnited States_556836404?domain=microsoft.com"
     }
   ],
-  "job_count_text": "889",
-  "timestamp": "2026-03-13T18:40:44.226318"
+  "job_count_text": "890",
+  "timestamp": "2026-03-13T18:55:22.383862"
 }

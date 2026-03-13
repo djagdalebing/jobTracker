@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
+      "url": "https://careers.micron.com/careers/job/40774838",
+      "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
+    },
+    {
       "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/40774903",
       "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
@@ -17,11 +22,6 @@
       "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 19 hours ago",
       "url": "https://careers.micron.com/careers/job/39688083",
       "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
-    },
-    {
-      "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 19 hours ago",
-      "url": "https://careers.micron.com/careers/job/40774838",
-      "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
     },
     {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-13T18:43:29.797893"
+  "timestamp": "2026-03-13T18:58:10.310444"
 }
