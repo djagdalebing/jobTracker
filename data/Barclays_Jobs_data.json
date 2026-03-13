@@ -9,11 +9,6 @@
       "identifier": "Executive Assistant_ve-assistant/13015/92732855152"
     },
     {
-      "title": "Cyber Operations Analyst \u2013 BA4",
-      "url": "https://search.jobs.barclays/job/whippany/cyber-operations-analyst-ba4/13015/92732851504",
-      "identifier": "Cyber Operations Analyst \u2013 BA4_-analyst-ba4/13015/92732851504"
-    },
-    {
       "title": "Assurance Specialist - AVP",
       "url": "https://search.jobs.barclays/job/new-york/assurance-specialist-avp/13015/92690375376",
       "identifier": "Assurance Specialist - AVP_ecialist-avp/13015/92690375376"
@@ -64,11 +59,6 @@
       "identifier": "Site Reliability Engineer (SRE), AVP_neer-sre-avp/13015/92625835696"
     },
     {
-      "title": "Investment Bank Energy Group, VP",
-      "url": "https://search.jobs.barclays/job/houston/investment-bank-energy-group-vp/13015/92625830912",
-      "identifier": "Investment Bank Energy Group, VP_rgy-group-vp/13015/92625830912"
-    },
-    {
       "title": "Trade Client Manager \u2013 Trade & Working Capital",
       "url": "https://search.jobs.barclays/job/new-york/trade-client-manager-trade-and-working-capital/13015/92625829584",
       "identifier": "Trade Client Manager \u2013 Trade & Working Capital_king-capital/13015/92625829584"
@@ -77,8 +67,18 @@
       "title": "Colleagues Ways of Working Execution Coach - AVP",
       "url": "https://search.jobs.barclays/job/new-york/colleagues-ways-of-working-execution-coach-avp/13015/92625822272",
       "identifier": "Colleagues Ways of Working Execution Coach - AVP_on-coach-avp/13015/92625822272"
+    },
+    {
+      "title": "Colleagues Ways of Working Execution Coach - VP",
+      "url": "https://search.jobs.barclays/job/new-york/colleagues-ways-of-working-execution-coach-vp/13015/92625822160",
+      "identifier": "Colleagues Ways of Working Execution Coach - VP_ion-coach-vp/13015/92625822160"
+    },
+    {
+      "title": "Mortgage Data Engineer, AVP",
+      "url": "https://search.jobs.barclays/job/whippany/mortgage-data-engineer-avp/13015/92613194448",
+      "identifier": "Mortgage Data Engineer, AVP_engineer-avp/13015/92613194448"
     }
   ],
-  "job_count_text": "84",
-  "timestamp": "2026-03-13T23:39:10.168050"
+  "job_count_text": "82",
+  "timestamp": "2026-03-13T23:53:42.976050"
 }

@@ -1,8 +1,18 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 14,
+  "total_jobs": 15,
   "jobs": [
+    {
+      "title": "Embedded Software Engineer, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200651749-0836/embedded-software-engineer-find-my?team=SFTWR",
+      "identifier": "Embedded Software Engineer, Find My_re-engineer-find-my?team=SFTWR"
+    },
+    {
+      "title": "iOS/macOS Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651661-0836/ios-macos-software-engineer?team=SFTWR",
+      "identifier": "iOS/macOS Software Engineer_s-software-engineer?team=SFTWR"
+    },
     {
       "title": "Engineering Project Manager (SAP Org Change Management Project Lead), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200651361-3401/engineering-project-manager-sap-org-change-management-project-lead-is-t-enterprise-systems?team=SFTWR",
@@ -67,13 +77,8 @@
       "title": "Senior ML Software Engineer - Apple Watch",
       "url": "https://jobs.apple.com/en-us/details/200624059-0365/senior-ml-software-engineer-apple-watch?team=SFTWR",
       "identifier": "Senior ML Software Engineer - Apple Watch_ngineer-apple-watch?team=SFTWR"
-    },
-    {
-      "title": "Server Engineering Manager, Find My",
-      "url": "https://jobs.apple.com/en-us/details/200651584-0836/server-engineering-manager-find-my?team=SFTWR",
-      "identifier": "Server Engineering Manager, Find My_ing-manager-find-my?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T23:39:43.496503"
+  "timestamp": "2026-03-13T23:54:17.274912"
 }
