@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Metrics Engineer-Maps Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200651572-0836/metrics-engineer-maps-evaluation?team=SFTWR",
+      "identifier": "Metrics Engineer-Maps Evaluation_eer-maps-evaluation?team=SFTWR"
+    },
     {
       "title": "Senior Software Engineer: Agentic Systems",
       "url": "https://jobs.apple.com/en-us/details/200651299-0836/senior-software-engineer-agentic-systems?team=SFTWR",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T16:43:40.855898"
+  "timestamp": "2026-03-13T16:58:18.690809"
 }
