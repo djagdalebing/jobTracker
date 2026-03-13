@@ -4,6 +4,11 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Senior End to End Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
+      "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
+    },
+    {
       "title": "Manager - Customer Feedback EPMs",
       "url": "https://jobs.apple.com/en-us/details/200650500-3543/manager-customer-feedback-epms?team=SFTWR",
       "identifier": "Manager - Customer Feedback EPMs_tomer-feedback-epms?team=SFTWR"
@@ -72,13 +77,8 @@
       "title": "Security Engineer- Apple Maps",
       "url": "https://jobs.apple.com/en-us/details/200651504-3337/security-engineer-apple-maps?team=SFTWR",
       "identifier": "Security Engineer- Apple Maps_engineer-apple-maps?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer - Apple Cloud Products - iCloud Backup",
-      "url": "https://jobs.apple.com/en-us/details/200651505-0836/senior-software-engineer-apple-cloud-products-icloud-backup?team=SFTWR",
-      "identifier": "Senior Software Engineer - Apple Cloud Products - _ducts-icloud-backup?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T01:26:32.544815"
+  "timestamp": "2026-03-13T01:41:06.321821"
 }
