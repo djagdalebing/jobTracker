@@ -4,6 +4,16 @@
   "total_jobs": 15,
   "jobs": [
     {
+      "title": "Executive Assistant",
+      "url": "https://search.jobs.barclays/job/wilmington/executive-assistant/13015/92732855152",
+      "identifier": "Executive Assistant_ve-assistant/13015/92732855152"
+    },
+    {
+      "title": "Cyber Operations Analyst \u2013 BA4",
+      "url": "https://search.jobs.barclays/job/whippany/cyber-operations-analyst-ba4/13015/92732851504",
+      "identifier": "Cyber Operations Analyst \u2013 BA4_-analyst-ba4/13015/92732851504"
+    },
+    {
       "title": "Assurance Specialist - AVP",
       "url": "https://search.jobs.barclays/job/new-york/assurance-specialist-avp/13015/92690375376",
       "identifier": "Assurance Specialist - AVP_ecialist-avp/13015/92690375376"
@@ -44,11 +54,6 @@
       "identifier": "Prime RAD Developer_ad-developer/13015/92651848368"
     },
     {
-      "title": "Senior Solutions Architect - VP",
-      "url": "https://search.jobs.barclays/job/whippany/senior-solutions-architect-vp/13015/92651843552",
-      "identifier": "Senior Solutions Architect - VP_architect-vp/13015/92651843552"
-    },
-    {
       "title": "Liquid Financing Inventory Management Senior Engineer",
       "url": "https://search.jobs.barclays/job/new-york/liquid-financing-inventory-management-senior-engineer/13015/92640163808",
       "identifier": "Liquid Financing Inventory Management Senior Engin_ior-engineer/13015/92640163808"
@@ -72,13 +77,8 @@
       "title": "Colleagues Ways of Working Execution Coach - AVP",
       "url": "https://search.jobs.barclays/job/new-york/colleagues-ways-of-working-execution-coach-avp/13015/92625822272",
       "identifier": "Colleagues Ways of Working Execution Coach - AVP_on-coach-avp/13015/92625822272"
-    },
-    {
-      "title": "Colleagues Ways of Working Execution Coach - VP",
-      "url": "https://search.jobs.barclays/job/new-york/colleagues-ways-of-working-execution-coach-vp/13015/92625822160",
-      "identifier": "Colleagues Ways of Working Execution Coach - VP_ion-coach-vp/13015/92625822160"
     }
   ],
-  "job_count_text": "83",
-  "timestamp": "2026-03-13T17:27:04.046497"
+  "job_count_text": "84",
+  "timestamp": "2026-03-13T17:41:50.237242"
 }

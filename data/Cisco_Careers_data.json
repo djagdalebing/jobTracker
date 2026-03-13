@@ -4,14 +4,19 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
+      "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
+      "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
+    },
+    {
       "title": "Data Science Analyst I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
       "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
     },
     {
-      "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
-      "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
-      "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -47,13 +52,8 @@
       "title": "Sales Development Representative II (Full Time) United States (Virtual Demand Center) - United States",
       "url": "https://careers.cisco.com/global/en/job/2008662/Sales-Development-Representative-II-Full-Time-United-States-Virtual-Demand-Center-United-States",
       "identifier": "Sales Development Representative II (Full Time) Un_al-Demand-Center-United-States"
-    },
-    {
-      "title": "Software Engineer Full Stack & Application Development II (Full Time) \u2013 United States",
-      "url": "https://careers.cisco.com/global/en/job/2000127/Software-Engineer-Full-Stack-Application-Development-II-Full-Time-United-States",
-      "identifier": "Software Engineer Full Stack & Application Develop_ent-II-Full-Time-United-States"
     }
   ],
-  "job_count_text": "30",
-  "timestamp": "2026-03-13T17:28:40.604312"
+  "job_count_text": "31",
+  "timestamp": "2026-03-13T17:43:22.945825"
 }
