@@ -1,8 +1,23 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Engineering Project Manager (SAP Org Change Management Project Lead), IS&T Enterprise Systems",
+      "url": "https://jobs.apple.com/en-us/details/200651361-3401/engineering-project-manager-sap-org-change-management-project-lead-is-t-enterprise-systems?team=SFTWR",
+      "identifier": "Engineering Project Manager (SAP Org Change Manage_-enterprise-systems?team=SFTWR"
+    },
+    {
+      "title": "Sr. Engineering Project Manager, Enterprise Apps",
+      "url": "https://jobs.apple.com/en-us/details/200651093-0836/sr-engineering-project-manager-enterprise-apps?team=SFTWR",
+      "identifier": "Sr. Engineering Project Manager, Enterprise Apps_ger-enterprise-apps?team=SFTWR"
+    },
+    {
+      "title": "Software Engineer (Java & Gen Ai), Sales Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200622099-0157/software-engineer-java-gen-ai-sales-engineering?team=SFTWR",
+      "identifier": "Software Engineer (Java & Gen Ai), Sales Engineeri_i-sales-engineering?team=SFTWR"
+    },
     {
       "title": "Automation and Design Test Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651667-3401/automation-and-design-test-engineer?team=SFTWR",
@@ -22,11 +37,6 @@
       "title": "Sr Software Engineer (Apps & Ai), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200650996-3956/sr-software-engineer-apps-ai-sales-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer (Apps & Ai), Sales Engineerin_i-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP Org Change Management Project Lead), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651361-3401/engineering-project-manager-sap-org-change-management-project-lead-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP Org Change Manage_-enterprise-systems?team=SFTWR"
     },
     {
       "title": "Software Engineer - Distributed Systems, Compute Platform",
@@ -62,23 +72,8 @@
       "title": "Server Engineering Manager, Find My",
       "url": "https://jobs.apple.com/en-us/details/200651584-0836/server-engineering-manager-find-my?team=SFTWR",
       "identifier": "Server Engineering Manager, Find My_ing-manager-find-my?team=SFTWR"
-    },
-    {
-      "title": "Systems Software Engineering Manager, Vision Products Group",
-      "url": "https://jobs.apple.com/en-us/details/200651512-3956/systems-software-engineering-manager-vision-products-group?team=SFTWR",
-      "identifier": "Systems Software Engineering Manager, Vision Produ_sion-products-group?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "url": "https://jobs.apple.com/en-us/details/200649928-3401/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
-      "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
-      "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T22:56:08.194985"
+  "timestamp": "2026-03-13T23:10:40.580698"
 }
