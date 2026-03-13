@@ -1,11 +1,11 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
     {
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200651348-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
     },
     {
@@ -72,13 +72,8 @@
       "title": "Senior Machine Learning Engineer - Tools & Frameworks AI",
       "url": "https://jobs.apple.com/en-us/details/200641250-0836/senior-machine-learning-engineer-tools-frameworks-ai?team=SFTWR",
       "identifier": "Senior Machine Learning Engineer - Tools & Framewo_tools-frameworks-ai?team=SFTWR"
-    },
-    {
-      "title": "Engineering Project Manager, Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200649813-3956/engineering-project-manager-sales-engineering?team=SFTWR",
-      "identifier": "Engineering Project Manager, Sales Engineering_r-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T02:24:47.653535"
+  "timestamp": "2026-03-13T02:39:23.155446"
 }
