@@ -4,12 +4,27 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted 35 minutes ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 3 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556820668?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556820668?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Core OS / Windows\nUnited States, Washington, Redmond\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556656764?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Core OS / Windows\nUnite_556656764?domain=microsoft.com"
+    },
+    {
+      "title": "Software Engineer II - CTJ - Poly\nUnited States, Washington, Redmond + 1 more\nPosted 7 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748996?domain=microsoft.com",
+      "identifier": "Software Engineer II - CTJ - Poly\nUnited States, W_556748996?domain=microsoft.com"
+    },
+    {
+      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556748744?domain=microsoft.com",
       "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556748744?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer - Azure Databricks\nUnited States, Multiple Locations, Multiple Locations\nPosted 41 minutes ago",
+      "title": "Senior Software Engineer - Azure Databricks\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752330?domain=microsoft.com",
       "identifier": "Senior Software Engineer - Azure Databricks\nUnited_556752330?domain=microsoft.com"
     },
@@ -19,7 +34,7 @@
       "identifier": "Senior Software Engineer\nUnited States, California_556752730?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted an hour ago",
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641785?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556641785?domain=microsoft.com"
     },
@@ -37,23 +52,8 @@
       "title": "Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843662?domain=microsoft.com",
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556843662?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556749467?domain=microsoft.com",
-      "identifier": "Principal Software Engineering Manager\nUnited Stat_556749467?domain=microsoft.com"
-    },
-    {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556653603?domain=microsoft.com",
-      "identifier": "Principal Software Engineer\nUnited States, Washing_556653603?domain=microsoft.com"
-    },
-    {
-      "title": "Senior Software Engineer (C++) - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556843568?domain=microsoft.com",
-      "identifier": "Senior Software Engineer (C++) - CTJ - Poly\nUnited_556843568?domain=microsoft.com"
     }
   ],
-  "job_count_text": "891",
-  "timestamp": "2026-03-13T19:39:16.847092"
+  "job_count_text": "894",
+  "timestamp": "2026-03-13T19:53:53.786222"
 }
