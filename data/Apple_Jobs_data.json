@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Systems Software Engineering Manager, Vision Products Group",
+      "url": "https://jobs.apple.com/en-us/details/200651512-3956/systems-software-engineering-manager-vision-products-group?team=SFTWR",
+      "identifier": "Systems Software Engineering Manager, Vision Produ_sion-products-group?team=SFTWR"
+    },
+    {
       "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
       "url": "https://jobs.apple.com/en-us/details/200649928-3401/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
       "identifier": "Engineering Project Manager (SAP), IS&T Enterprise_-enterprise-systems?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Senior Marketing Data Scientist",
       "url": "https://jobs.apple.com/en-us/details/200649638-0670/senior-marketing-data-scientist?team=SFTWR",
       "identifier": "Senior Marketing Data Scientist_ting-data-scientist?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer (Data)",
-      "url": "https://jobs.apple.com/en-us/details/200630500-0836/software-engineer-data?team=SFTWR",
-      "identifier": "Software Engineer (Data)_tware-engineer-data?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T04:11:46.186098"
+  "timestamp": "2026-03-13T04:26:19.688247"
 }
