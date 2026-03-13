@@ -4,12 +4,22 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 11 minutes ago",
+      "title": "Senior AI Engineer\nUnited States, Washington, Redmond\nPosted 6 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556748744?domain=microsoft.com",
+      "identifier": "Senior AI Engineer\nUnited States, Washington, Redm_556748744?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer - Azure Databricks\nUnited States, Multiple Locations, Multiple Locations\nPosted 12 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752330?domain=microsoft.com",
+      "identifier": "Senior Software Engineer - Azure Databricks\nUnited_556752330?domain=microsoft.com"
+    },
+    {
+      "title": "Senior Software Engineer\nUnited States, California, Mountain View\nPosted 25 minutes ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556752730?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, California_556752730?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted 32 minutes ago",
+      "title": "Senior Software Engineer\nUnited States, Georgia, Atlanta\nPosted an hour ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556641785?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Georgia, A_556641785?domain=microsoft.com"
     },
@@ -29,31 +39,21 @@
       "identifier": "Software Engineer\nUnited States, Washington, Redmo_556843662?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted an hour ago",
+      "title": "Principal Software Engineering Manager\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556749467?domain=microsoft.com",
       "identifier": "Principal Software Engineering Manager\nUnited Stat_556749467?domain=microsoft.com"
     },
     {
-      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted an hour ago",
+      "title": "Principal Software Engineer\nUnited States, Washington, Redmond\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556653603?domain=microsoft.com",
       "identifier": "Principal Software Engineer\nUnited States, Washing_556653603?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer (C++) - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted an hour ago",
+      "title": "Senior Software Engineer (C++) - CTJ - Poly\nUnited States, Virginia, Reston + 1 more\nPosted 2 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843568?domain=microsoft.com",
       "identifier": "Senior Software Engineer (C++) - CTJ - Poly\nUnited_556843568?domain=microsoft.com"
-    },
-    {
-      "title": "Sr. Software Engineer - Storage Fundamentals\nUnited States, Multiple Locations, Multiple Locations\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556752731?domain=microsoft.com",
-      "identifier": "Sr. Software Engineer - Storage Fundamentals\nUnite_556752731?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer: Microsoft AI Development Acceleration Program, Cambridge\nUnited States, Massachusetts, Cambridge\nPosted 2 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556629490?domain=microsoft.com",
-      "identifier": "Software Engineer: Microsoft AI Development Accele_556629490?domain=microsoft.com"
     }
   ],
-  "job_count_text": "890",
-  "timestamp": "2026-03-13T18:55:22.383862"
+  "job_count_text": "892",
+  "timestamp": "2026-03-13T19:10:00.961055"
 }
