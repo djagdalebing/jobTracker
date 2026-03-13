@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
+      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
+      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
+    },
+    {
       "title": "Customer Project Specialist (Intern) - United States CX Renewals/CX ETR",
       "url": "https://careers.cisco.com/global/en/job/2009089/Customer-Project-Specialist-Intern-United-States-CX-Renewals-CX-ETR",
       "identifier": "Customer Project Specialist (Intern) - United Stat_ited-States-CX-Renewals-CX-ETR"
@@ -12,11 +17,6 @@
       "title": "Data Science Analyst I (Full Time) - United States",
       "url": "https://careers.cisco.com/global/en/job/2007519/Data-Science-Analyst-I-Full-Time-United-States",
       "identifier": "Data Science Analyst I (Full Time) - United States_lyst-I-Full-Time-United-States"
-    },
-    {
-      "title": "Customer Experience Project Specialist I (Full-Time) - United States",
-      "url": "https://careers.cisco.com/global/en/job/2001576/Customer-Experience-Project-Specialist-I-Full-Time-United-States",
-      "identifier": "Customer Experience Project Specialist I (Full-Tim_list-I-Full-Time-United-States"
     },
     {
       "title": "Sales Development Representative Outbound Sales II (Full Time) - United States",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "31",
-  "timestamp": "2026-03-13T20:44:04.776838"
+  "timestamp": "2026-03-13T20:58:37.595360"
 }
