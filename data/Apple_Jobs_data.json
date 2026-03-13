@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior End to End Performance Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
+      "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
+    },
+    {
       "title": "Senior ML Software Engineer - Apple Watch",
       "url": "https://jobs.apple.com/en-us/details/200624059-0365/senior-ml-software-engineer-apple-watch?team=SFTWR",
       "identifier": "Senior ML Software Engineer - Apple Watch_ngineer-apple-watch?team=SFTWR"
@@ -27,11 +32,6 @@
       "title": "Software Engineer (Quality), Retail and Marcom Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
       "identifier": "Software Engineer (Quality), Retail and Marcom Eng_-marcom-engineering?team=SFTWR"
-    },
-    {
-      "title": "Senior End to End Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
-      "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
     },
     {
       "title": "Manager - Customer Feedback EPMs",
@@ -75,5 +75,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T14:41:30.063076"
+  "timestamp": "2026-03-13T14:56:02.028202"
 }
