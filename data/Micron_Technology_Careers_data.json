@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/39688071",
-      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
-    },
-    {
-      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/39688083",
-      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
-    },
-    {
       "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/40774838",
       "identifier": "Real-Time Defect Analysis Equipment Applications E_icron.com/careers/job/40774838"
@@ -44,6 +34,16 @@
       "identifier": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho_icron.com/careers/job/40836562"
     },
     {
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
+      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/39688071",
+      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
       "title": "New College Grad \u2013 Computer Science - Advance Packaging Technology Development (APTD)\nBoise, Idaho, United States of America + 1 more\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40795748",
       "identifier": "New College Grad \u2013 Computer Science - Advance Pack_icron.com/careers/job/40795748"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "65",
-  "timestamp": "2026-03-14T19:49:21.090473"
+  "timestamp": "2026-03-14T20:06:41.436690"
 }
