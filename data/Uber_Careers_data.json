@@ -1,8 +1,14 @@
 {
-  "page_title": "",
+  "page_title": "Page Not Found | Uber",
   "url": "https://www.uber.com/global/en/careers/list/?department=Engineering&location=United%20States",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "title": "Go to Uber Careers",
+      "url": "https://www.uber.com/careers/",
+      "identifier": "Go to Uber Careers_https://www.uber.com/careers/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T02:02:20.639430"
+  "timestamp": "2026-03-14T02:19:01.622146"
 }
