@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Software Tools and Automation Engineer - AI/ML",
+      "url": "https://jobs.apple.com/en-us/details/200648241-3337/software-tools-and-automation-engineer-ai-ml?team=SFTWR",
+      "identifier": "Software Tools and Automation Engineer - AI/ML_tion-engineer-ai-ml?team=SFTWR"
+    },
+    {
       "title": "Senior Data Platform Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651747-3401/senior-data-platform-engineer?team=SFTWR",
       "identifier": "Senior Data Platform Engineer_a-platform-engineer?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Software Engineer - Distributed Systems, Compute Platform",
       "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
       "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
-    },
-    {
-      "title": "Backend Services Software Engineer - Release Validation",
-      "url": "https://jobs.apple.com/en-us/details/200651668-3543/backend-services-software-engineer-release-validation?team=SFTWR",
-      "identifier": "Backend Services Software Engineer - Release Valid_-release-validation?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T04:51:47.131002"
+  "timestamp": "2026-03-14T05:09:02.612679"
 }
