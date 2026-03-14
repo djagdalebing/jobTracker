@@ -91,56 +91,56 @@
     },
     {
       "name": "Google Careers",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target%5C_level=EARLY&target_level=EARLY&sort_by=date",
       "enabled": true,
       "check_interval": 600,
       "description": "Google - Early Career & New Grad roles (US)"
     },
     {
       "name": "Amazon Jobs",
-      "url": "https://www.amazon.jobs/en/search?base_query=software+engineer&country%5B%5D=USA",
+      "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
       "enabled": true,
       "check_interval": 600,
       "description": "Amazon - Software Engineer roles (US)"
     },
     {
       "name": "NVIDIA Careers",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&workerSubType=ab40a98049581037a3ada55b087049b7",
       "enabled": true,
       "check_interval": 600,
       "description": "NVIDIA - Engineering and AI roles (US)"
     },
     {
       "name": "Uber Careers",
-      "url": "https://www.uber.com/global/en/careers/list/?department=Engineering&location=United%20States",
+      "url": "https://www.uber.com/us/en/careers/list/?department=University&department=Engineering",
       "enabled": true,
       "check_interval": 600,
       "description": "Uber - Engineering roles (US)"
     },
     {
       "name": "Bloomberg Careers",
-      "url": "https://careers.bloomberg.com/job/search?locations=United%20States&level=Entry%20Level",
+      "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
       "enabled": true,
       "check_interval": 600,
       "description": "Bloomberg - Entry Level & Engineering roles (US)"
     },
     {
       "name": "Tesla Careers",
-      "url": "https://www.tesla.com/careers/search/?site=US&department=Engineering%20%26%20Information%20Technology",
+      "url": "https://www.tesla.com/careers/search/?site=US&type=fulltime",
       "enabled": true,
       "check_interval": 600,
       "description": "Tesla - Engineering & IT roles (US)"
     },
     {
       "name": "DoorDash Careers",
-      "url": "https://careersatdoordash.com/jobs/?search=&team=Engineering&location=United%20States",
+      "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
       "enabled": true,
       "check_interval": 600,
       "description": "DoorDash - Engineering roles (US)"
     },
     {
       "name": "Rivian Careers",
-      "url": "https://careers.rivian.com/careers-home/jobs?location=United%20States&department=Software%20Engineering",
+      "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
       "enabled": true,
       "check_interval": 600,
       "description": "Rivian - Software Engineering roles (US)"
