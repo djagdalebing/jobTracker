@@ -4,7 +4,12 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 15 hours ago",
+      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 10 minutes ago",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556640969?domain=microsoft.com",
+      "identifier": "Software Engineer II\nUnited States, Washington, Re_556640969?domain=microsoft.com"
+    },
+    {
+      "title": "Applied Scientist II\nUnited States, Washington, Redmond\nPosted 16 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556843618?domain=microsoft.com",
       "identifier": "Applied Scientist II\nUnited States, Washington, Re_556843618?domain=microsoft.com"
     },
@@ -19,7 +24,7 @@
       "identifier": "Principal AI Architect\nUnited States, Multiple Loc_556749593?domain=microsoft.com"
     },
     {
-      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 16 hours ago",
+      "title": "Senior Software Engineer\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556668274?domain=microsoft.com",
       "identifier": "Senior Software Engineer\nUnited States, Washington_556668274?domain=microsoft.com"
     },
@@ -37,13 +42,8 @@
       "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556815625?domain=microsoft.com",
       "identifier": "Software Engineer II\nUnited States, Washington, Re_556815625?domain=microsoft.com"
-    },
-    {
-      "title": "Software Engineer II\nUnited States, Washington, Redmond\nPosted 17 hours ago",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556815539?domain=microsoft.com",
-      "identifier": "Software Engineer II\nUnited States, Washington, Re_556815539?domain=microsoft.com"
     }
   ],
-  "job_count_text": "869",
-  "timestamp": "2026-03-14T15:01:48.769810"
+  "job_count_text": "870",
+  "timestamp": "2026-03-14T15:19:00.785919"
 }
