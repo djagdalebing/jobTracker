@@ -4,26 +4,6 @@
   "total_jobs": 8,
   "jobs": [
     {
-      "title": "Staff Salesforce Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0848229/Staff-Salesforce-Engineer",
-      "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
-    },
-    {
-      "title": "AS/400 Application Developer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
-      "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
-    },
-    {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847232/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Manager - Production Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
-      "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
-    },
-    {
       "title": "Store Hardware Technician",
       "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
       "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
@@ -42,8 +22,28 @@
       "title": "Technical Business Analyst",
       "url": "https://jobs.cvshealth.com/us/en/job/R0842053/Technical-Business-Analyst",
       "identifier": "Technical Business Analyst_053/Technical-Business-Analyst"
+    },
+    {
+      "title": "Senior Manager - Production Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
+      "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
+    },
+    {
+      "title": "Traveling Field Service Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0790035/Traveling-Field-Service-Technician",
+      "identifier": "Traveling Field Service Technician_eling-Field-Service-Technician"
+    },
+    {
+      "title": "Software Quality Automation Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0843978/Software-Quality-Automation-Engineer",
+      "identifier": "Software Quality Automation Engineer_re-Quality-Automation-Engineer"
+    },
+    {
+      "title": "Field Service Technician \u2013 Pompano Beach/Coral Springs/Boca Raton Florida",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0834663/Field-Service-Technician-Pompano-Beach-Coral-Springs-Boca-Raton-Florida",
+      "identifier": "Field Service Technician \u2013 Pompano Beach/Coral Spr_ral-Springs-Boca-Raton-Florida"
     }
   ],
-  "job_count_text": "29",
-  "timestamp": "2026-03-14T06:01:53.648017"
+  "job_count_text": "22",
+  "timestamp": "2026-03-14T06:19:10.759502"
 }
