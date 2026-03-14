@@ -1,8 +1,14 @@
 {
-  "page_title": "",
-  "url": "https://www.uber.com/global/en/careers/list/?department=Engineering&location=United%20States",
-  "total_jobs": 0,
-  "jobs": [],
+  "page_title": "Job Openings | Uber Careers",
+  "url": "https://www.uber.com/us/en/careers/list/?department=University&department=Engineering",
+  "total_jobs": 1,
+  "jobs": [
+    {
+      "title": "Uber Careers",
+      "url": "https://jobs.uber.com/en/",
+      "identifier": "Uber Careers_https://jobs.uber.com/en/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T03:42:04.911924"
+  "timestamp": "2026-03-14T04:56:55.337826"
 }
