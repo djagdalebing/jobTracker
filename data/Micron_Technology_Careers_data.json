@@ -4,21 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40774903",
-      "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
-    },
-    {
-      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40776642",
-      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/40776642"
-    },
-    {
-      "title": "Engineer, Facilities Capacity Planning\nBoise, Idaho, United States of America\nPosted 2 days ago",
-      "url": "https://careers.micron.com/careers/job/40776650",
-      "identifier": "Engineer, Facilities Capacity Planning\nBoise, Idah_icron.com/careers/job/40776650"
-    },
-    {
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
@@ -44,6 +29,21 @@
       "identifier": "Industrial Engineer \u2013 TPG IE Modeling\nBoise, Idaho_icron.com/careers/job/40836562"
     },
     {
+      "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40774903",
+      "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
+    },
+    {
+      "title": "ATE Process Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40776642",
+      "identifier": "ATE Process Engineer\nBoise, Idaho, United States o_icron.com/careers/job/40776642"
+    },
+    {
+      "title": "Engineer, Facilities Capacity Planning\nBoise, Idaho, United States of America\nPosted 2 days ago",
+      "url": "https://careers.micron.com/careers/job/40776650",
+      "identifier": "Engineer, Facilities Capacity Planning\nBoise, Idah_icron.com/careers/job/40776650"
+    },
+    {
       "title": "New College Grad \u2013 Computer Science - Advance Packaging Technology Development (APTD)\nBoise, Idaho, United States of America + 1 more\nPosted 3 days ago",
       "url": "https://careers.micron.com/careers/job/40795748",
       "identifier": "New College Grad \u2013 Computer Science - Advance Pack_icron.com/careers/job/40795748"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "65",
-  "timestamp": "2026-03-14T20:24:05.021686"
+  "timestamp": "2026-03-14T20:41:21.308224"
 }
