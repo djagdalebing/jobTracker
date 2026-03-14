@@ -4,16 +4,6 @@
   "total_jobs": 10,
   "jobs": [
     {
-      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39688071",
-      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
-    },
-    {
-      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39688083",
-      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
-    },
-    {
       "title": "Supply Chain Planner\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40774903",
       "identifier": "Supply Chain Planner\nBoise, Idaho, United States o_icron.com/careers/job/40774903"
@@ -44,6 +34,16 @@
       "identifier": "Engineer, Facilities Capacity Planning\nBoise, Idah_icron.com/careers/job/40776650"
     },
     {
+      "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39688071",
+      "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
+    },
+    {
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
       "title": "Change Management Engineer\nBoise, Idaho, United States of America\nPosted 2 days ago",
       "url": "https://careers.micron.com/careers/job/38368336",
       "identifier": "Change Management Engineer\nBoise, Idaho, United St_icron.com/careers/job/38368336"
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "66",
-  "timestamp": "2026-03-13T23:56:43.910534"
+  "timestamp": "2026-03-14T00:11:17.638363"
 }

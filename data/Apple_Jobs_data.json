@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 16,
   "jobs": [
+    {
+      "title": "Visual Generation Framework Software Engineer - SIML, ISE",
+      "url": "https://jobs.apple.com/en-us/details/200646318-3337/visual-generation-framework-software-engineer-siml-ise?team=SFTWR",
+      "identifier": "Visual Generation Framework Software Engineer - SI_e-engineer-siml-ise?team=SFTWR"
+    },
     {
       "title": "Embedded Software Engineer, Find My",
       "url": "https://jobs.apple.com/en-us/details/200651749-0836/embedded-software-engineer-find-my?team=SFTWR",
@@ -80,5 +85,5 @@
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T23:54:17.274912"
+  "timestamp": "2026-03-14T00:08:50.217137"
 }
