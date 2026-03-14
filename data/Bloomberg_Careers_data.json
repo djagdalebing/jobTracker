@@ -1,8 +1,24 @@
 {
-  "page_title": "Bloomberg - Are you a robot?",
-  "url": "https://www.bloomberg.com/company/what-we-do/",
-  "total_jobs": 0,
-  "jobs": [],
-  "job_count_text": "",
-  "timestamp": "2026-03-14T04:15:31.680991"
+  "page_title": "Bloomberg Careers",
+  "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "privacy policy",
+      "url": "https://www.bloomberg.com/notices/careers-privacy/",
+      "identifier": "privacy policy_g.com/notices/careers-privacy/"
+    },
+    {
+      "title": "Bloomberg",
+      "url": "https://bloomberg.avature.net/careers",
+      "identifier": "Bloomberg_/bloomberg.avature.net/careers"
+    },
+    {
+      "title": "Technology Policy Writer - Engineering COO Office (Contract)",
+      "url": "https://bloomberg.avature.net/careers/JobDetail/Technology-Policy-Writer-Engineering-COO-Office-Contract/16986",
+      "identifier": "Technology Policy Writer - Engineering COO Office _ring-COO-Office-Contract/16986"
+    }
+  ],
+  "job_count_text": "1",
+  "timestamp": "2026-03-14T04:39:54.322519"
 }

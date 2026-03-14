@@ -1,64 +1,64 @@
 {
-  "page_title": "Job search | Amazon.jobs",
-  "url": "https://www.amazon.jobs/en/search?base_query=software+engineer&country%5B%5D=USA",
+  "page_title": "Amazon University Talent Acquisition (AUTA)",
+  "url": "https://www.amazon.jobs/content/en/career-programs/university?country%5B%5D=US&employment-type%5B%5D=Full+time&team%5B%5D=studentprograms.team-jobs-for-grads",
   "total_jobs": 11,
   "jobs": [
     {
-      "title": "Software Engineer",
-      "url": "https://www.amazon.jobs/en/jobs/3092179/software-engineer",
-      "identifier": "Software Engineer_jobs/3092179/software-engineer"
+      "title": "Full-time roles for graduates",
+      "url": "https://www.amazon.jobs/content/en/career-programs/student-programs/jobs-for-grads",
+      "identifier": "Full-time roles for graduates_tudent-programs/jobs-for-grads"
     },
     {
-      "title": "Software Engineer",
-      "url": "https://www.amazon.jobs/en/jobs/3092174/software-engineer",
-      "identifier": "Software Engineer_jobs/3092174/software-engineer"
+      "title": "Solutions Architect - 2026 (US)",
+      "url": "https://www.amazon.jobs/jobs/3204552",
+      "identifier": "Solutions Architect - 2026 (US)_//www.amazon.jobs/jobs/3204552"
     },
     {
-      "title": "Software Engineer II",
-      "url": "https://www.amazon.jobs/en/jobs/3104730/software-engineer-ii",
-      "identifier": "Software Engineer II_s/3104730/software-engineer-ii"
+      "title": "Postdoctoral Scientist",
+      "url": "https://www.amazon.jobs/jobs/3116161",
+      "identifier": "Postdoctoral Scientist_//www.amazon.jobs/jobs/3116161"
     },
     {
-      "title": "Software Engineer I",
-      "url": "https://www.amazon.jobs/en/jobs/3111761/software-engineer-i",
-      "identifier": "Software Engineer I_bs/3111761/software-engineer-i"
+      "title": "Associate Engagement Manager, ADC",
+      "url": "https://www.amazon.jobs/jobs/3200044",
+      "identifier": "Associate Engagement Manager, ADC_//www.amazon.jobs/jobs/3200044"
     },
     {
-      "title": "Software Engineer I",
-      "url": "https://www.amazon.jobs/en/jobs/3049568/software-engineer-i",
-      "identifier": "Software Engineer I_bs/3049568/software-engineer-i"
+      "title": "Associate Cloud Application Developer",
+      "url": "https://www.amazon.jobs/jobs/3201194",
+      "identifier": "Associate Cloud Application Developer_//www.amazon.jobs/jobs/3201194"
     },
     {
-      "title": "Software Engineer I",
-      "url": "https://www.amazon.jobs/en/jobs/3155750/software-engineer-i",
-      "identifier": "Software Engineer I_bs/3155750/software-engineer-i"
+      "title": "Associate Data AnaIytics Consultant",
+      "url": "https://www.amazon.jobs/jobs/3201170",
+      "identifier": "Associate Data AnaIytics Consultant_//www.amazon.jobs/jobs/3201170"
     },
     {
-      "title": "Software Engineer II",
-      "url": "https://www.amazon.jobs/en/jobs/3090680/software-engineer-ii",
-      "identifier": "Software Engineer II_s/3090680/software-engineer-ii"
+      "title": "Software Development Engineer - Military Veterans",
+      "url": "https://www.amazon.jobs/jobs/3179205",
+      "identifier": "Software Development Engineer - Military Veterans_//www.amazon.jobs/jobs/3179205"
     },
     {
-      "title": "Software Engineer I",
-      "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
-      "identifier": "Software Engineer I_bs/3141336/software-engineer-i"
+      "title": "Software Development Engineer Apprentice - Military Veterans",
+      "url": "https://www.amazon.jobs/jobs/3188438",
+      "identifier": "Software Development Engineer Apprentice - Militar_//www.amazon.jobs/jobs/3188438"
     },
     {
-      "title": "Software Engineer II",
-      "url": "https://www.amazon.jobs/en/jobs/3104734/software-engineer-ii",
-      "identifier": "Software Engineer II_s/3104734/software-engineer-ii"
+      "title": "Software Development Engineer - 2026 (US)",
+      "url": "https://www.amazon.jobs/jobs/3177934",
+      "identifier": "Software Development Engineer - 2026 (US)_//www.amazon.jobs/jobs/3177934"
     },
     {
-      "title": "Senior Software Engineer, Twitch",
-      "url": "https://www.amazon.jobs/en/jobs/3138042/senior-software-engineer-twitch",
-      "identifier": "Senior Software Engineer, Twitch_enior-software-engineer-twitch"
+      "title": "Network Development Engineer",
+      "url": "https://www.amazon.jobs/jobs/3176561",
+      "identifier": "Network Development Engineer_//www.amazon.jobs/jobs/3176561"
     },
     {
-      "title": "Job Categories",
-      "url": "https://www.amazon.jobs/content/en/job-categories",
-      "identifier": "Job Categories_jobs/content/en/job-categories"
+      "title": "ASIC Engineer, Project Leo",
+      "url": "https://www.amazon.jobs/jobs/3176560",
+      "identifier": "ASIC Engineer, Project Leo_//www.amazon.jobs/jobs/3176560"
     }
   ],
-  "job_count_text": "3",
-  "timestamp": "2026-03-14T04:14:47.104085"
+  "job_count_text": "",
+  "timestamp": "2026-03-14T04:39:07.985836"
 }

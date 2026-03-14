@@ -1,19 +1,14 @@
 {
   "page_title": "Job Search - DoorDash",
-  "url": "https://careersatdoordash.com/job-search/",
-  "total_jobs": 2,
+  "url": "https://careersatdoordash.com/job-search/?intern=0&function=Software%20Engineering%7CIT%20Support%7C&keyword=&location=Los%20Angeles&spage=1",
+  "total_jobs": 1,
   "jobs": [
     {
-      "title": "Manager, Sales Strategy & Planning - In-Store",
-      "url": "https://careersatdoordash.com/jobs/manager-sales-strategy-planning---in-store/7719624",
-      "identifier": "Manager, Sales Strategy & Planning - In-Store_gy-planning---in-store/7719624"
-    },
-    {
-      "title": "Senior Associate, New Verticals - Logistics Strategy & Operations",
-      "url": "https://careersatdoordash.com/jobs/senior-associate-new-verticals---logistics-strategy-operations/7707544",
-      "identifier": "Senior Associate, New Verticals - Logistics Strate_cs-strategy-operations/7707544"
+      "title": "Software Engineer - Developer Experience, Android",
+      "url": "https://careersatdoordash.com/jobs/software-engineer---developer-experience-android/7704515",
+      "identifier": "Software Engineer - Developer Experience, Android_per-experience-android/7704515"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T04:16:02.975751"
+  "timestamp": "2026-03-14T04:40:24.231742"
 }
