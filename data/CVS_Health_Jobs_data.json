@@ -4,6 +4,16 @@
   "total_jobs": 8,
   "jobs": [
     {
+      "title": "Store Hardware Technician",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
+      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
+    },
+    {
+      "title": "Manager, Data Governance (Enterprise Finance)",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845021/Manager-Data-Governance-Enterprise-Finance",
+      "identifier": "Manager, Data Governance (Enterprise Finance)_-Governance-Enterprise-Finance"
+    },
+    {
       "title": "Quality Engineer - Salesforce",
       "url": "https://jobs.cvshealth.com/us/en/job/R0848214/Quality-Engineer-Salesforce",
       "identifier": "Quality Engineer - Salesforce_14/Quality-Engineer-Salesforce"
@@ -14,19 +24,9 @@
       "identifier": "Technical Business Analyst_053/Technical-Business-Analyst"
     },
     {
-      "title": "Manager, Data Governance (Enterprise Finance)",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845021/Manager-Data-Governance-Enterprise-Finance",
-      "identifier": "Manager, Data Governance (Enterprise Finance)_-Governance-Enterprise-Finance"
-    },
-    {
       "title": "Senior Manager - Production Support",
       "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
       "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
-    },
-    {
-      "title": "Store Hardware Technician",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846748/Store-Hardware-Technician",
-      "identifier": "Store Hardware Technician_6748/Store-Hardware-Technician"
     },
     {
       "title": "Traveling Field Service Technician",
@@ -45,5 +45,5 @@
     }
   ],
   "job_count_text": "22",
-  "timestamp": "2026-03-14T16:36:55.128297"
+  "timestamp": "2026-03-14T16:54:10.078893"
 }
