@@ -4,6 +4,11 @@
   "total_jobs": 10,
   "jobs": [
     {
+      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
+      "url": "https://careers.micron.com/careers/job/39688083",
+      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
+    },
+    {
       "title": "Shift Process Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/39688071",
       "identifier": "Shift Process Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688071"
@@ -22,11 +27,6 @@
       "title": "Engineer, Facilities Capacity Planning\nBoise, Idaho, United States of America\nPosted a day ago",
       "url": "https://careers.micron.com/careers/job/40776650",
       "identifier": "Engineer, Facilities Capacity Planning\nBoise, Idah_icron.com/careers/job/40776650"
-    },
-    {
-      "title": "Manufacturing Engineer ID1\nBoise, Idaho, United States of America\nPosted a day ago",
-      "url": "https://careers.micron.com/careers/job/39688083",
-      "identifier": "Manufacturing Engineer ID1\nBoise, Idaho, United St_icron.com/careers/job/39688083"
     },
     {
       "title": "Real-Time Defect Analysis Equipment Applications Engineer\nManassas, Virginia, United States of America\nPosted a day ago",
@@ -55,5 +55,5 @@
     }
   ],
   "job_count_text": "65",
-  "timestamp": "2026-03-14T06:38:33.542602"
+  "timestamp": "2026-03-14T06:55:54.388055"
 }
