@@ -9,14 +9,19 @@
       "identifier": "Staff Salesforce Engineer_8229/Staff-Salesforce-Engineer"
     },
     {
-      "title": "Technical Business Analyst",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0842053/Technical-Business-Analyst",
-      "identifier": "Technical Business Analyst_053/Technical-Business-Analyst"
-    },
-    {
       "title": "AS/400 Application Developer",
       "url": "https://jobs.cvshealth.com/us/en/job/R0768768/AS-400-Application-Developer",
       "identifier": "AS/400 Application Developer_8/AS-400-Application-Developer"
+    },
+    {
+      "title": "Software Development Engineer",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0847232/Software-Development-Engineer",
+      "identifier": "Software Development Engineer_/Software-Development-Engineer"
+    },
+    {
+      "title": "Senior Manager - Production Support",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
+      "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
     },
     {
       "title": "Store Hardware Technician",
@@ -29,21 +34,16 @@
       "identifier": "Manager, Data Governance (Enterprise Finance)_-Governance-Enterprise-Finance"
     },
     {
-      "title": "Senior Manager - Production Support",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0845309/Senior-Manager-Production-Support",
-      "identifier": "Senior Manager - Production Support_ior-Manager-Production-Support"
+      "title": "Quality Engineer - Salesforce",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0848214/Quality-Engineer-Salesforce",
+      "identifier": "Quality Engineer - Salesforce_14/Quality-Engineer-Salesforce"
     },
     {
-      "title": "Software Development Engineer",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0846164/Software-Development-Engineer",
-      "identifier": "Software Development Engineer_/Software-Development-Engineer"
-    },
-    {
-      "title": "Senior Engineering Manager",
-      "url": "https://jobs.cvshealth.com/us/en/job/R0847003/Senior-Engineering-Manager",
-      "identifier": "Senior Engineering Manager_003/Senior-Engineering-Manager"
+      "title": "Technical Business Analyst",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0842053/Technical-Business-Analyst",
+      "identifier": "Technical Business Analyst_053/Technical-Business-Analyst"
     }
   ],
-  "job_count_text": "31",
-  "timestamp": "2026-03-14T05:44:36.041230"
+  "job_count_text": "29",
+  "timestamp": "2026-03-14T06:01:53.648017"
 }
