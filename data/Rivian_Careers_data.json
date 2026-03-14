@@ -1,8 +1,64 @@
 {
-  "page_title": "504 Gateway Time-out",
+  "page_title": "Rivian Automotive",
   "url": "https://careers.rivian.com/careers-home/jobs?page=1&categories=Information%20Technology%7CSoftware%20Engineering%7CTest%20and%20Development",
-  "total_jobs": 0,
-  "jobs": [],
-  "job_count_text": "",
-  "timestamp": "2026-03-14T09:51:35.344648"
+  "total_jobs": 11,
+  "jobs": [
+    {
+      "title": "Check Application Status",
+      "url": "https://us-careers-rivian.icims.com/jobs/login?loginOnly=1",
+      "identifier": "Check Application Status_ims.com/jobs/login?loginOnly=1"
+    },
+    {
+      "title": "Staff Cybersecurity Application Security Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/29206?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff Cybersecurity Application Security Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Data Engineer, Enterprise Data & Analytics",
+      "url": "https://careers.rivian.com/careers-home/jobs/27910?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Data Engineer, Enterprise Data & Analytics_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. Cybersecurity Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/28786?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. Cybersecurity Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Staff IT Solutions Engineer, Collaboration Platforms",
+      "url": "https://careers.rivian.com/careers-home/jobs/28983?lang=en-us&previousLocale=en-US",
+      "identifier": "Staff IT Solutions Engineer, Collaboration Platfor_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Senior iOS Engineer - Trip Planner Mobile",
+      "url": "https://careers.rivian.com/careers-home/jobs/26589?lang=en-us&previousLocale=en-US",
+      "identifier": "Senior iOS Engineer - Trip Planner Mobile_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Manager, Productivity Platforms",
+      "url": "https://careers.rivian.com/careers-home/jobs/28984?lang=en-us&previousLocale=en-US",
+      "identifier": "Manager, Productivity Platforms_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. IT Wireless Network Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/24321?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. IT Wireless Network Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "ML Compiler Engineer",
+      "url": "https://careers.rivian.com/careers-home/jobs/26319?lang=en-us&previousLocale=en-US",
+      "identifier": "ML Compiler Engineer_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Sr. AI Engineer, Enterprise Applied AI",
+      "url": "https://careers.rivian.com/careers-home/jobs/26639?lang=en-us&previousLocale=en-US",
+      "identifier": "Sr. AI Engineer, Enterprise Applied AI_ang=en-us&previousLocale=en-US"
+    },
+    {
+      "title": "Full-stack Software Engineer, Marketing",
+      "url": "https://careers.rivian.com/careers-home/jobs/27898?lang=en-us&previousLocale=en-US",
+      "identifier": "Full-stack Software Engineer, Marketing_ang=en-us&previousLocale=en-US"
+    }
+  ],
+  "job_count_text": "34",
+  "timestamp": "2026-03-14T10:08:49.107200"
 }
