@@ -1,10 +1,7 @@
 name: Website Tracker
 
 on:
-  schedule:
-    # Runs every 6 hours to restart the loop
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: # Manual trigger + API re-trigger chain
 
 permissions:
   contents: write
