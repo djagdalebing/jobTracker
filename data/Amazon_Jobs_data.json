@@ -1,0 +1,64 @@
+{
+  "page_title": "Job search | Amazon.jobs",
+  "url": "https://www.amazon.jobs/en/search?base_query=software+engineer&country%5B%5D=USA",
+  "total_jobs": 11,
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/3092179/software-engineer",
+      "identifier": "Software Engineer_jobs/3092179/software-engineer"
+    },
+    {
+      "title": "Software Engineer",
+      "url": "https://www.amazon.jobs/en/jobs/3092174/software-engineer",
+      "identifier": "Software Engineer_jobs/3092174/software-engineer"
+    },
+    {
+      "title": "Software Engineer II",
+      "url": "https://www.amazon.jobs/en/jobs/3104730/software-engineer-ii",
+      "identifier": "Software Engineer II_s/3104730/software-engineer-ii"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3111761/software-engineer-i",
+      "identifier": "Software Engineer I_bs/3111761/software-engineer-i"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3049568/software-engineer-i",
+      "identifier": "Software Engineer I_bs/3049568/software-engineer-i"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3155750/software-engineer-i",
+      "identifier": "Software Engineer I_bs/3155750/software-engineer-i"
+    },
+    {
+      "title": "Software Engineer II",
+      "url": "https://www.amazon.jobs/en/jobs/3090680/software-engineer-ii",
+      "identifier": "Software Engineer II_s/3090680/software-engineer-ii"
+    },
+    {
+      "title": "Software Engineer I",
+      "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i",
+      "identifier": "Software Engineer I_bs/3141336/software-engineer-i"
+    },
+    {
+      "title": "Software Engineer II",
+      "url": "https://www.amazon.jobs/en/jobs/3104734/software-engineer-ii",
+      "identifier": "Software Engineer II_s/3104734/software-engineer-ii"
+    },
+    {
+      "title": "Senior Software Engineer, Twitch",
+      "url": "https://www.amazon.jobs/en/jobs/3138042/senior-software-engineer-twitch",
+      "identifier": "Senior Software Engineer, Twitch_enior-software-engineer-twitch"
+    },
+    {
+      "title": "Job Categories",
+      "url": "https://www.amazon.jobs/content/en/job-categories",
+      "identifier": "Job Categories_jobs/content/en/job-categories"
+    }
+  ],
+  "job_count_text": "3",
+  "timestamp": "2026-03-14T02:01:49.643482"
+}
