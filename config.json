@@ -36,6 +36,20 @@
       "description": "Meta - University Grad Engineering, Tech & Design (Full-time)"
     },
     {
+      "name": "CVS Health Jobs",
+      "url": "https://jobs.cvshealth.com/us/en/search-results",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "CVS Health - Innovation and Technology, Data and Analytics",
+      "interactive": true,
+      "filters": {
+        "category": "Innovation and Technology",
+        "sub_category": "Information Technology",
+        "country":"United States",
+        "sort_by": "Recent"
+      }
+    },
+    {
       "name": "Cisco Careers",
       "url": "https://careers.cisco.com/global/en/search-results?s=1",
       "enabled": true,
