@@ -1,8 +1,13 @@
 {
   "page_title": "Search Jobs - Multiple filters applied. - Jobs - Careers at Apple",
   "url": "https://jobs.apple.com/en-us/search?location=united-states-USA&team=machine-learning-infrastructure-MLAI-MLI+deep-learning-and-reinforcement-learning-MLAI-DLRL+natural-language-processing-and-speech-technologies-MLAI-NLP+computer-vision-MLAI-CV+applied-research-MLAI-AR+apps-and-frameworks-SFTWR-AF+cloud-and-infrastructure-SFTWR-CLD+core-operating-systems-SFTWR-COS+devops-and-site-reliability-SFTWR-DSR+engineering-project-management-SFTWR-EPM+information-systems-and-technology-SFTWR-ISTECH+machine-learning-and-ai-SFTWR-MCHLN+security-and-privacy-SFTWR-SEC+software-quality-automation-and-tools-SFTWR-SQAT+wireless-software-SFTWR-WSFT+business-intelligence-and-analytics-OPMFG-BIA",
-  "total_jobs": 15,
+  "total_jobs": 14,
   "jobs": [
+    {
+      "title": "Senior Data Platform Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200651747-3401/senior-data-platform-engineer?team=SFTWR",
+      "identifier": "Senior Data Platform Engineer_a-platform-engineer?team=SFTWR"
+    },
     {
       "title": "Engineering Manager, Find My",
       "url": "https://jobs.apple.com/en-us/details/200651752-0836/engineering-manager-find-my?team=SFTWR",
@@ -67,18 +72,8 @@
       "title": "Backend Services Software Engineer - Release Validation",
       "url": "https://jobs.apple.com/en-us/details/200651668-3543/backend-services-software-engineer-release-validation?team=SFTWR",
       "identifier": "Backend Services Software Engineer - Release Valid_-release-validation?team=SFTWR"
-    },
-    {
-      "title": "Senior Software Engineer: Agentic Systems",
-      "url": "https://jobs.apple.com/en-us/details/200651299-0836/senior-software-engineer-agentic-systems?team=SFTWR",
-      "identifier": "Senior Software Engineer: Agentic Systems_eer-agentic-systems?team=SFTWR"
-    },
-    {
-      "title": "Senior End to End Performance Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
-      "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T01:09:09.079279"
+  "timestamp": "2026-03-14T01:23:39.909781"
 }
