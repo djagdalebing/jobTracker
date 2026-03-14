@@ -125,13 +125,6 @@
       "description": "NVIDIA - Engineering and AI roles (US)"
     },
     {
-      "name": "Uber Careers",
-      "url": "https://www.uber.com/us/en/careers/list/?department=University&department=Engineering",
-      "enabled": true,
-      "check_interval": 600,
-      "description": "Uber - Engineering roles (US)"
-    },
-    {
       "name": "Bloomberg Careers",
       "url": "https://bloomberg.avature.net/careers/SearchJobs/?1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
       "enabled": true,
