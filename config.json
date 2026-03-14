@@ -88,6 +88,62 @@
         "teams": ["Engineering and Product"],
         "sort_by": "Most recent"
       }
+    },
+    {
+      "name": "Google Careers",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=EARLY",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Google - Early Career & New Grad roles (US)"
+    },
+    {
+      "name": "Amazon Jobs",
+      "url": "https://www.amazon.jobs/en/search?base_query=software+engineer&country%5B%5D=USA",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Amazon - Software Engineer roles (US)"
+    },
+    {
+      "name": "NVIDIA Careers",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?locationCountry=bc33aa3152ec42d4995f4791a106ed09",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "NVIDIA - Engineering and AI roles (US)"
+    },
+    {
+      "name": "Uber Careers",
+      "url": "https://www.uber.com/global/en/careers/list/?department=Engineering&location=United%20States",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Uber - Engineering roles (US)"
+    },
+    {
+      "name": "Bloomberg Careers",
+      "url": "https://careers.bloomberg.com/job/search?locations=United%20States&level=Entry%20Level",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Bloomberg - Entry Level & Engineering roles (US)"
+    },
+    {
+      "name": "Tesla Careers",
+      "url": "https://www.tesla.com/careers/search/?site=US&department=Engineering%20%26%20Information%20Technology",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Tesla - Engineering & IT roles (US)"
+    },
+    {
+      "name": "DoorDash Careers",
+      "url": "https://careersatdoordash.com/jobs/?search=&team=Engineering&location=United%20States",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "DoorDash - Engineering roles (US)"
+    },
+    {
+      "name": "Rivian Careers",
+      "url": "https://careers.rivian.com/careers-home/jobs?location=United%20States&department=Software%20Engineering",
+      "enabled": true,
+      "check_interval": 600,
+      "description": "Rivian - Software Engineering roles (US)"
     }
   ],
   "telegram": {
