@@ -4,6 +4,11 @@
   "total_jobs": 16,
   "jobs": [
     {
+      "title": "Engineering Manager, Find My",
+      "url": "https://jobs.apple.com/en-us/details/200651752-0836/engineering-manager-find-my?team=SFTWR",
+      "identifier": "Engineering Manager, Find My_ing-manager-find-my?team=SFTWR"
+    },
+    {
       "title": "Visual Generation Framework Software Engineer - SIML, ISE",
       "url": "https://jobs.apple.com/en-us/details/200646318-3337/visual-generation-framework-software-engineer-siml-ise?team=SFTWR",
       "identifier": "Visual Generation Framework Software Engineer - SI_e-engineer-siml-ise?team=SFTWR"
@@ -77,13 +82,8 @@
       "title": "Senior End to End Performance Engineer",
       "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
       "identifier": "Senior End to End Performance Engineer_erformance-engineer?team=SFTWR"
-    },
-    {
-      "title": "Senior ML Software Engineer - Apple Watch",
-      "url": "https://jobs.apple.com/en-us/details/200624059-0365/senior-ml-software-engineer-apple-watch?team=SFTWR",
-      "identifier": "Senior ML Software Engineer - Apple Watch_ngineer-apple-watch?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-14T00:08:50.217137"
+  "timestamp": "2026-03-14T00:23:22.900261"
 }
