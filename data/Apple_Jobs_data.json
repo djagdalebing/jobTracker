@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Systems Software Engineer \u2013 Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200651735-3543/systems-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "identifier": "Systems Software Engineer \u2013 Wireless Technologies _nologies-ecosystems?team=SFTWR"
+    },
+    {
       "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
       "url": "https://jobs.apple.com/en-us/details/200651506-0836/senior-engineering-manager-core-services-apple-services-engineering?team=SFTWR",
       "identifier": "Senior Engineering Manager, Core Services - Apple _ervices-engineering?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Manager, Data Quality & Evaluation - AIML Data Ops",
       "url": "https://jobs.apple.com/en-us/details/200651198-0836/manager-data-quality-evaluation-aiml-data-ops?team=SFTWR",
       "identifier": "Manager, Data Quality & Evaluation - AIML Data Ops_ation-aiml-data-ops?team=SFTWR"
-    },
-    {
-      "title": "Sr Software Engineer (Apps & Ai), Sales Engineering",
-      "url": "https://jobs.apple.com/en-us/details/200650996-3956/sr-software-engineer-apps-ai-sales-engineering?team=SFTWR",
-      "identifier": "Sr Software Engineer (Apps & Ai), Sales Engineerin_i-sales-engineering?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-15T04:53:43.755632"
+  "timestamp": "2026-03-15T05:10:46.436775"
 }
