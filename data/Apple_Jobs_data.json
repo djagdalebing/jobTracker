@@ -4,6 +4,11 @@
   "total_jobs": 14,
   "jobs": [
     {
+      "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200651506-0836/senior-engineering-manager-core-services-apple-services-engineering?team=SFTWR",
+      "identifier": "Senior Engineering Manager, Core Services - Apple _ervices-engineering?team=SFTWR"
+    },
+    {
       "title": "Software Tools and Automation Engineer - AI/ML",
       "url": "https://jobs.apple.com/en-us/details/200648241-3337/software-tools-and-automation-engineer-ai-ml?team=SFTWR",
       "identifier": "Software Tools and Automation Engineer - AI/ML_tion-engineer-ai-ml?team=SFTWR"
@@ -67,13 +72,8 @@
       "title": "Sr Software Engineer (Apps & Ai), Sales Engineering",
       "url": "https://jobs.apple.com/en-us/details/200650996-3956/sr-software-engineer-apps-ai-sales-engineering?team=SFTWR",
       "identifier": "Sr Software Engineer (Apps & Ai), Sales Engineerin_i-sales-engineering?team=SFTWR"
-    },
-    {
-      "title": "Software Engineer - Distributed Systems, Compute Platform",
-      "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR",
-      "identifier": "Software Engineer - Distributed Systems, Compute P_ms-compute-platform?team=SFTWR"
     }
   ],
   "job_count_text": "",
-  "timestamp": "2026-03-15T00:45:11.444958"
+  "timestamp": "2026-03-15T01:02:16.060584"
 }
