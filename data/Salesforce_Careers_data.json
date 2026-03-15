@@ -1,8 +1,24 @@
 {
   "page_title": "Salesforce Jobs | Salesforce Careers",
   "url": "https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&team=Data&team=Enterprise+Technology+%26+Infrastructure&team=Software+Engineering&jobtype=New+Grads&pagesize=20#results",
-  "total_jobs": 0,
-  "jobs": [],
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "title": "Sales Development Representative Apprentice (Early Career)",
+      "url": "https://careers.salesforce.com/en/jobs/jr332276/sales-development-representative-apprentice-early-career/",
+      "identifier": "Sales Development Representative Apprentice (Early_ative-apprentice-early-career/"
+    },
+    {
+      "title": "Sales Development Representative, Nonprofit (Early Career)",
+      "url": "https://careers.salesforce.com/en/jobs/jr317525/sales-development-representative-nonprofit-early-career/",
+      "identifier": "Sales Development Representative, Nonprofit (Early_tative-nonprofit-early-career/"
+    },
+    {
+      "title": "Sales Development Representative (Early Career)",
+      "url": "https://careers.salesforce.com/en/jobs/jr325892/sales-development-representative-early-career/",
+      "identifier": "Sales Development Representative (Early Career)_t-representative-early-career/"
+    }
+  ],
   "job_count_text": "",
-  "timestamp": "2026-03-13T20:26:14.597677"
+  "timestamp": "2026-03-15T01:59:06.017332"
 }
